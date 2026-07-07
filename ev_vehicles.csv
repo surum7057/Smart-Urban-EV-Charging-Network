@@ -1,0 +1,501 @@
+vehicle_id,vehicle_code,model_name,manufacturer,battery_capacity_kwh,range_km,vehicle_type,registration_date,home_city_id,status,current_battery_pct
+1,VH-00001,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2022-03-28,1,Active,56.6
+2,VH-00002,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2020-12-21,3,Active,9.2
+3,VH-00003,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2021-07-15,7,Inactive,15.7
+4,VH-00004,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2025-10-20,6,Active,88.3
+5,VH-00005,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2021-01-22,10,Active,27.2
+6,VH-00006,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2023-10-15,8,Inactive,27.3
+7,VH-00007,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2020-07-04,6,Inactive,67.8
+8,VH-00008,Kia EV6,Kia,77.4,708,Four-Wheeler,2023-11-10,9,Active,22.1
+9,VH-00009,Kia EV6,Kia,77.4,708,Four-Wheeler,2020-04-10,1,Active,76.7
+10,VH-00010,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2022-02-01,6,Inactive,74.7
+11,VH-00011,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2021-09-23,7,Active,50.0
+12,VH-00012,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2022-07-28,2,Scrapped,4.2
+13,VH-00013,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2023-06-19,2,Inactive,57.3
+14,VH-00014,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2023-02-13,5,Active,96.6
+15,VH-00015,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2024-12-12,8,Active,43.7
+16,VH-00016,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2021-10-13,7,Scrapped,7.9
+17,VH-00017,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2025-04-11,6,Active,7.6
+18,VH-00018,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2020-09-07,9,Inactive,35.1
+19,VH-00019,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2021-02-05,4,Inactive,19.7
+20,VH-00020,Kia EV6,Kia,77.4,708,Four-Wheeler,2021-03-25,2,Scrapped,49.4
+21,VH-00021,Kia EV6,Kia,77.4,708,Four-Wheeler,2024-11-19,8,Scrapped,63.5
+22,VH-00022,Kia EV6,Kia,77.4,708,Four-Wheeler,2022-03-15,6,Active,46.9
+23,VH-00023,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2022-10-02,5,Inactive,50.7
+24,VH-00024,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2023-01-02,8,Inactive,83.2
+25,VH-00025,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2025-10-20,2,Scrapped,38.4
+26,VH-00026,Kia EV6,Kia,77.4,708,Four-Wheeler,2024-08-26,1,Scrapped,65.2
+27,VH-00027,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2024-09-05,8,Active,45.1
+28,VH-00028,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2025-09-21,2,Active,3.9
+29,VH-00029,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2023-09-20,9,Active,36.4
+30,VH-00030,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2023-06-22,7,Scrapped,5.2
+31,VH-00031,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2025-02-11,6,Active,55.8
+32,VH-00032,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2022-12-28,5,Scrapped,96.4
+33,VH-00033,Kia EV6,Kia,77.4,708,Four-Wheeler,2021-02-19,6,Scrapped,14.1
+34,VH-00034,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2022-03-20,7,Scrapped,93.8
+35,VH-00035,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2024-11-26,7,Inactive,81.3
+36,VH-00036,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2025-02-21,9,Scrapped,42.3
+37,VH-00037,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2020-05-06,6,Active,34.2
+38,VH-00038,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2021-03-05,4,Active,29.6
+39,VH-00039,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2024-12-17,9,Active,66.2
+40,VH-00040,Kia EV6,Kia,77.4,708,Four-Wheeler,2021-07-05,10,Active,18.1
+41,VH-00041,Kia EV6,Kia,77.4,708,Four-Wheeler,2021-01-14,8,Inactive,67.6
+42,VH-00042,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2023-05-25,10,Scrapped,78.4
+43,VH-00043,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2024-05-26,4,Inactive,90.4
+44,VH-00044,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2022-08-15,10,Inactive,77.8
+45,VH-00045,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2024-03-27,7,Active,80.1
+46,VH-00046,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2022-11-16,1,Inactive,55.5
+47,VH-00047,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2025-02-10,9,Active,76.3
+48,VH-00048,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2023-03-27,9,Inactive,9.2
+49,VH-00049,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2023-01-14,6,Active,39.6
+50,VH-00050,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2021-02-12,7,Active,2.8
+51,VH-00051,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2025-03-05,6,Active,28.7
+52,VH-00052,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2025-12-16,3,Inactive,61.5
+53,VH-00053,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2020-04-27,5,Active,54.9
+54,VH-00054,Kia EV6,Kia,77.4,708,Four-Wheeler,2024-02-25,7,Inactive,23.8
+55,VH-00055,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2020-07-21,4,Scrapped,45.7
+56,VH-00056,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2023-09-01,10,Scrapped,51.5
+57,VH-00057,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2025-05-14,3,Active,61.5
+58,VH-00058,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2024-03-22,7,Scrapped,8.6
+59,VH-00059,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2020-09-17,9,Scrapped,55.4
+60,VH-00060,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2023-11-13,1,Inactive,25.4
+61,VH-00061,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2022-06-08,2,Scrapped,65.7
+62,VH-00062,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2024-03-02,6,Inactive,54.6
+63,VH-00063,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2021-12-16,8,Scrapped,18.2
+64,VH-00064,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2020-01-10,8,Active,4.4
+65,VH-00065,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2020-05-17,6,Inactive,98.9
+66,VH-00066,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2023-01-25,5,Scrapped,19.1
+67,VH-00067,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2020-05-04,6,Inactive,43.7
+68,VH-00068,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2025-07-11,8,Active,49.6
+69,VH-00069,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2022-05-26,9,Active,72.7
+70,VH-00070,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2023-03-18,10,Inactive,32.1
+71,VH-00071,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2022-05-15,5,Scrapped,71.8
+72,VH-00072,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2025-06-15,8,Active,72.7
+73,VH-00073,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2024-05-21,7,Active,7.5
+74,VH-00074,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2023-09-26,6,Scrapped,67.9
+75,VH-00075,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2021-11-26,10,Inactive,3.5
+76,VH-00076,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2021-06-13,6,Scrapped,3.2
+77,VH-00077,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2025-06-12,8,Inactive,76.3
+78,VH-00078,Kia EV6,Kia,77.4,708,Four-Wheeler,2021-06-13,9,Inactive,65.0
+79,VH-00079,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2020-12-06,1,Inactive,51.8
+80,VH-00080,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2020-05-23,5,Inactive,21.5
+81,VH-00081,Kia EV6,Kia,77.4,708,Four-Wheeler,2022-04-04,8,Active,85.3
+82,VH-00082,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2021-02-26,8,Scrapped,96.8
+83,VH-00083,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2025-12-03,6,Scrapped,54.2
+84,VH-00084,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2021-06-17,3,Active,12.1
+85,VH-00085,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2021-08-01,4,Inactive,55.4
+86,VH-00086,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2023-03-20,9,Active,6.6
+87,VH-00087,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2025-09-14,8,Inactive,82.3
+88,VH-00088,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2021-11-03,6,Inactive,46.6
+89,VH-00089,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2022-09-21,3,Scrapped,18.2
+90,VH-00090,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2023-01-27,9,Active,51.8
+91,VH-00091,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2021-06-23,3,Active,34.6
+92,VH-00092,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2022-05-07,2,Scrapped,95.6
+93,VH-00093,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2021-10-18,5,Active,50.3
+94,VH-00094,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2024-03-06,10,Scrapped,62.4
+95,VH-00095,Kia EV6,Kia,77.4,708,Four-Wheeler,2022-01-27,10,Active,8.1
+96,VH-00096,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2024-11-07,5,Scrapped,41.7
+97,VH-00097,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2020-11-18,8,Inactive,64.2
+98,VH-00098,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2023-11-13,4,Inactive,45.4
+99,VH-00099,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2021-07-16,8,Inactive,20.4
+100,VH-00100,Kia EV6,Kia,77.4,708,Four-Wheeler,2021-12-11,6,Scrapped,98.8
+101,VH-00101,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2023-06-17,3,Scrapped,10.6
+102,VH-00102,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2023-05-15,2,Active,14.1
+103,VH-00103,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2022-10-14,7,Active,96.3
+104,VH-00104,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2022-12-11,10,Active,76.3
+105,VH-00105,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2024-08-10,8,Inactive,2.3
+106,VH-00106,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2024-04-07,8,Scrapped,35.3
+107,VH-00107,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2022-10-27,8,Scrapped,67.3
+108,VH-00108,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2024-02-14,1,Active,88.2
+109,VH-00109,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2023-01-13,6,Active,57.0
+110,VH-00110,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2022-05-03,9,Inactive,50.4
+111,VH-00111,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2022-11-20,10,Active,12.9
+112,VH-00112,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2023-06-18,6,Inactive,75.5
+113,VH-00113,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2024-07-17,9,Active,4.5
+114,VH-00114,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2025-08-17,6,Inactive,14.9
+115,VH-00115,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2021-10-11,6,Active,39.3
+116,VH-00116,Kia EV6,Kia,77.4,708,Four-Wheeler,2025-10-11,5,Scrapped,82.8
+117,VH-00117,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2023-05-16,10,Active,36.8
+118,VH-00118,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2020-10-10,7,Scrapped,87.2
+119,VH-00119,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2020-08-09,10,Scrapped,78.3
+120,VH-00120,Kia EV6,Kia,77.4,708,Four-Wheeler,2024-12-02,4,Scrapped,48.0
+121,VH-00121,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2025-07-05,10,Scrapped,24.2
+122,VH-00122,Kia EV6,Kia,77.4,708,Four-Wheeler,2025-04-01,2,Inactive,31.4
+123,VH-00123,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2023-07-17,4,Scrapped,92.1
+124,VH-00124,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2025-09-07,3,Scrapped,32.5
+125,VH-00125,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2023-07-11,9,Active,46.0
+126,VH-00126,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2022-06-22,9,Scrapped,68.1
+127,VH-00127,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2024-04-08,8,Inactive,55.8
+128,VH-00128,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2022-12-07,5,Scrapped,70.5
+129,VH-00129,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2023-09-26,6,Scrapped,27.3
+130,VH-00130,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2024-07-13,9,Inactive,95.5
+131,VH-00131,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2022-05-23,1,Active,34.6
+132,VH-00132,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2025-12-16,5,Active,20.2
+133,VH-00133,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2022-12-09,9,Active,10.9
+134,VH-00134,Kia EV6,Kia,77.4,708,Four-Wheeler,2021-01-22,4,Scrapped,22.6
+135,VH-00135,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2020-07-11,2,Scrapped,47.2
+136,VH-00136,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2021-09-06,1,Inactive,65.3
+137,VH-00137,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2023-05-11,4,Inactive,64.6
+138,VH-00138,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2025-04-18,10,Scrapped,72.3
+139,VH-00139,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2021-03-02,7,Inactive,78.8
+140,VH-00140,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2025-01-01,5,Inactive,56.8
+141,VH-00141,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2022-08-21,5,Scrapped,52.4
+142,VH-00142,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2024-05-07,8,Active,33.1
+143,VH-00143,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2025-12-06,5,Active,73.7
+144,VH-00144,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2024-03-20,4,Scrapped,89.7
+145,VH-00145,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2024-02-13,6,Scrapped,9.5
+146,VH-00146,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2023-04-01,6,Inactive,38.4
+147,VH-00147,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2022-05-19,6,Scrapped,57.3
+148,VH-00148,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2025-12-08,6,Active,66.8
+149,VH-00149,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2022-07-22,3,Scrapped,92.3
+150,VH-00150,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2025-11-10,2,Inactive,61.5
+151,VH-00151,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2021-03-15,8,Scrapped,98.9
+152,VH-00152,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2023-08-25,9,Scrapped,80.2
+153,VH-00153,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2021-02-17,10,Inactive,52.8
+154,VH-00154,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2020-02-02,10,Scrapped,90.3
+155,VH-00155,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2024-03-06,9,Inactive,85.4
+156,VH-00156,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2020-12-19,4,Inactive,9.1
+157,VH-00157,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2023-08-05,1,Scrapped,41.5
+158,VH-00158,Kia EV6,Kia,77.4,708,Four-Wheeler,2020-08-22,9,Inactive,72.3
+159,VH-00159,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2022-12-07,1,Scrapped,7.3
+160,VH-00160,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2022-09-02,2,Active,98.6
+161,VH-00161,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2020-07-06,5,Active,76.6
+162,VH-00162,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2023-07-15,6,Inactive,37.6
+163,VH-00163,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2025-03-21,9,Inactive,11.9
+164,VH-00164,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2023-03-24,9,Active,83.5
+165,VH-00165,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2022-11-24,8,Scrapped,42.4
+166,VH-00166,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2021-08-12,4,Active,27.6
+167,VH-00167,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2020-10-25,7,Active,24.1
+168,VH-00168,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2020-01-15,10,Scrapped,67.2
+169,VH-00169,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2021-07-15,1,Active,54.0
+170,VH-00170,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2021-05-08,9,Scrapped,57.6
+171,VH-00171,Kia EV6,Kia,77.4,708,Four-Wheeler,2024-04-10,6,Active,98.6
+172,VH-00172,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2021-05-09,7,Active,55.7
+173,VH-00173,Kia EV6,Kia,77.4,708,Four-Wheeler,2025-11-22,3,Inactive,55.6
+174,VH-00174,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2022-09-11,7,Scrapped,41.6
+175,VH-00175,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2022-03-25,7,Scrapped,47.4
+176,VH-00176,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2022-08-02,3,Scrapped,41.3
+177,VH-00177,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2024-03-13,9,Active,25.5
+178,VH-00178,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2025-08-28,2,Inactive,9.2
+179,VH-00179,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2020-07-22,5,Scrapped,60.3
+180,VH-00180,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2021-12-22,10,Scrapped,21.7
+181,VH-00181,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2022-01-07,5,Active,96.2
+182,VH-00182,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2025-04-23,8,Scrapped,70.4
+183,VH-00183,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2021-06-25,9,Inactive,38.1
+184,VH-00184,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2025-05-09,6,Inactive,51.3
+185,VH-00185,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2023-12-16,2,Inactive,91.4
+186,VH-00186,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2022-01-19,7,Active,74.1
+187,VH-00187,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2022-10-19,9,Scrapped,41.8
+188,VH-00188,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2021-04-13,6,Scrapped,83.3
+189,VH-00189,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2024-05-25,6,Inactive,96.7
+190,VH-00190,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2025-08-06,8,Scrapped,79.5
+191,VH-00191,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2021-08-06,9,Scrapped,99.0
+192,VH-00192,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2024-02-27,1,Scrapped,4.9
+193,VH-00193,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2023-11-08,3,Active,70.7
+194,VH-00194,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2021-08-12,9,Active,61.8
+195,VH-00195,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2024-11-16,8,Active,0.7
+196,VH-00196,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2023-01-17,1,Scrapped,27.5
+197,VH-00197,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2020-12-22,9,Inactive,80.6
+198,VH-00198,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2020-09-05,2,Active,19.2
+199,VH-00199,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2022-05-26,6,Inactive,7.9
+200,VH-00200,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2023-04-23,10,Active,30.0
+201,VH-00201,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2025-02-13,1,Inactive,37.7
+202,VH-00202,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2020-12-06,1,Active,50.0
+203,VH-00203,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2025-10-28,6,Active,89.5
+204,VH-00204,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2021-12-19,4,Inactive,27.1
+205,VH-00205,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2025-09-19,5,Scrapped,3.3
+206,VH-00206,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2020-10-05,4,Scrapped,82.1
+207,VH-00207,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2022-10-08,3,Scrapped,83.5
+208,VH-00208,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2025-06-13,9,Scrapped,14.0
+209,VH-00209,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2024-01-04,6,Inactive,23.2
+210,VH-00210,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2022-10-20,10,Inactive,96.9
+211,VH-00211,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2020-08-16,5,Active,35.6
+212,VH-00212,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2023-11-19,3,Scrapped,38.0
+213,VH-00213,Kia EV6,Kia,77.4,708,Four-Wheeler,2022-12-03,4,Active,26.8
+214,VH-00214,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2025-12-13,3,Inactive,36.1
+215,VH-00215,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2020-08-12,5,Inactive,10.2
+216,VH-00216,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2021-08-18,7,Scrapped,51.2
+217,VH-00217,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2020-06-18,2,Active,59.7
+218,VH-00218,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2023-05-14,1,Inactive,77.9
+219,VH-00219,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2021-09-06,10,Scrapped,38.1
+220,VH-00220,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2022-05-16,5,Active,6.3
+221,VH-00221,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2022-05-16,7,Active,36.1
+222,VH-00222,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2025-10-20,8,Active,45.8
+223,VH-00223,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2022-07-11,1,Scrapped,38.0
+224,VH-00224,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2023-07-27,6,Scrapped,97.4
+225,VH-00225,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2022-10-23,6,Active,47.9
+226,VH-00226,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2023-05-24,6,Scrapped,63.3
+227,VH-00227,Kia EV6,Kia,77.4,708,Four-Wheeler,2021-07-09,6,Inactive,36.5
+228,VH-00228,Kia EV6,Kia,77.4,708,Four-Wheeler,2021-09-06,10,Scrapped,76.8
+229,VH-00229,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2025-12-07,8,Inactive,79.8
+230,VH-00230,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2023-03-21,8,Inactive,24.2
+231,VH-00231,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2021-07-03,7,Inactive,99.1
+232,VH-00232,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2024-09-17,7,Scrapped,41.8
+233,VH-00233,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2022-10-21,9,Active,10.9
+234,VH-00234,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2025-03-21,6,Scrapped,4.4
+235,VH-00235,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2025-06-26,7,Inactive,10.6
+236,VH-00236,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2022-09-24,4,Scrapped,55.8
+237,VH-00237,Kia EV6,Kia,77.4,708,Four-Wheeler,2021-06-13,8,Inactive,77.2
+238,VH-00238,Kia EV6,Kia,77.4,708,Four-Wheeler,2025-03-12,9,Active,48.3
+239,VH-00239,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2023-02-27,2,Scrapped,14.2
+240,VH-00240,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2022-04-17,8,Inactive,34.8
+241,VH-00241,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2023-06-03,8,Inactive,4.5
+242,VH-00242,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2020-11-04,6,Scrapped,80.0
+243,VH-00243,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2024-09-06,3,Inactive,56.0
+244,VH-00244,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2021-11-06,7,Active,64.0
+245,VH-00245,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2023-12-20,1,Active,45.0
+246,VH-00246,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2023-12-07,1,Active,27.8
+247,VH-00247,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2024-09-06,2,Inactive,32.6
+248,VH-00248,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2020-11-28,5,Inactive,52.8
+249,VH-00249,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2022-07-20,10,Inactive,58.7
+250,VH-00250,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2022-10-06,8,Scrapped,70.6
+251,VH-00251,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2024-02-22,10,Active,31.3
+252,VH-00252,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2022-03-12,2,Scrapped,14.1
+253,VH-00253,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2023-03-19,10,Inactive,42.3
+254,VH-00254,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2025-12-21,9,Active,55.5
+255,VH-00255,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2022-03-11,3,Inactive,61.9
+256,VH-00256,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2020-03-07,8,Inactive,96.4
+257,VH-00257,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2025-07-22,8,Inactive,41.6
+258,VH-00258,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2023-02-19,3,Active,79.6
+259,VH-00259,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2022-05-08,1,Scrapped,28.9
+260,VH-00260,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2024-09-17,8,Active,57.3
+261,VH-00261,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2024-09-27,6,Active,76.0
+262,VH-00262,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2024-07-04,4,Scrapped,83.0
+263,VH-00263,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2022-08-09,1,Inactive,86.2
+264,VH-00264,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2023-04-07,2,Scrapped,58.8
+265,VH-00265,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2025-11-14,10,Active,61.6
+266,VH-00266,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2021-10-12,1,Scrapped,28.1
+267,VH-00267,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2021-12-10,6,Inactive,57.3
+268,VH-00268,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2025-03-25,2,Inactive,91.9
+269,VH-00269,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2025-12-28,3,Active,25.0
+270,VH-00270,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2021-08-05,7,Scrapped,63.2
+271,VH-00271,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2023-08-03,7,Scrapped,79.5
+272,VH-00272,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2023-12-09,9,Scrapped,93.6
+273,VH-00273,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2023-06-19,8,Active,86.9
+274,VH-00274,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2025-11-22,8,Scrapped,35.8
+275,VH-00275,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2024-04-14,7,Active,49.5
+276,VH-00276,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2022-09-19,6,Active,56.6
+277,VH-00277,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2022-01-04,1,Scrapped,78.4
+278,VH-00278,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2020-03-15,2,Inactive,0.1
+279,VH-00279,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2021-11-10,3,Active,87.4
+280,VH-00280,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2020-05-03,6,Inactive,66.5
+281,VH-00281,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2021-07-21,1,Inactive,72.6
+282,VH-00282,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2023-12-04,2,Active,21.3
+283,VH-00283,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2021-04-17,10,Scrapped,44.5
+284,VH-00284,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2025-02-28,6,Inactive,69.4
+285,VH-00285,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2020-07-03,4,Scrapped,80.6
+286,VH-00286,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2022-05-05,6,Inactive,77.3
+287,VH-00287,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2025-02-17,3,Scrapped,0.8
+288,VH-00288,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2021-06-24,8,Active,62.8
+289,VH-00289,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2023-11-15,10,Active,8.7
+290,VH-00290,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2021-10-24,2,Inactive,35.2
+291,VH-00291,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2022-04-09,3,Scrapped,8.4
+292,VH-00292,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2024-12-20,10,Inactive,77.9
+293,VH-00293,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2025-04-17,5,Scrapped,51.0
+294,VH-00294,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2022-04-16,1,Inactive,11.3
+295,VH-00295,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2025-02-17,10,Active,98.7
+296,VH-00296,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2021-10-14,7,Inactive,54.6
+297,VH-00297,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2023-01-19,2,Active,1.4
+298,VH-00298,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2020-07-17,1,Inactive,62.9
+299,VH-00299,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2023-12-13,7,Active,64.1
+300,VH-00300,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2024-05-03,3,Inactive,7.9
+301,VH-00301,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2021-06-13,9,Scrapped,63.4
+302,VH-00302,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2025-05-23,2,Inactive,73.0
+303,VH-00303,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2020-02-14,4,Active,45.3
+304,VH-00304,Kia EV6,Kia,77.4,708,Four-Wheeler,2020-11-24,5,Scrapped,74.1
+305,VH-00305,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2020-12-01,3,Active,49.6
+306,VH-00306,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2024-12-09,9,Active,37.2
+307,VH-00307,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2025-01-11,2,Inactive,27.2
+308,VH-00308,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2022-11-03,10,Inactive,45.5
+309,VH-00309,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2020-10-06,8,Inactive,15.7
+310,VH-00310,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2024-04-24,2,Scrapped,0.3
+311,VH-00311,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2021-08-12,1,Inactive,92.0
+312,VH-00312,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2020-12-24,9,Scrapped,41.9
+313,VH-00313,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2021-12-11,7,Inactive,82.6
+314,VH-00314,Kia EV6,Kia,77.4,708,Four-Wheeler,2022-09-22,2,Active,17.9
+315,VH-00315,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2020-02-15,7,Inactive,77.4
+316,VH-00316,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2022-09-15,2,Active,36.9
+317,VH-00317,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2024-12-20,5,Active,46.4
+318,VH-00318,Kia EV6,Kia,77.4,708,Four-Wheeler,2023-12-18,4,Active,15.1
+319,VH-00319,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2020-09-12,4,Scrapped,84.0
+320,VH-00320,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2022-11-13,1,Scrapped,72.7
+321,VH-00321,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2021-04-14,9,Inactive,96.1
+322,VH-00322,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2025-02-02,5,Active,89.7
+323,VH-00323,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2023-08-24,6,Active,58.1
+324,VH-00324,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2021-02-19,7,Scrapped,6.2
+325,VH-00325,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2021-05-09,4,Inactive,92.6
+326,VH-00326,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2025-06-15,6,Inactive,23.4
+327,VH-00327,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2021-02-05,10,Active,16.4
+328,VH-00328,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2022-02-18,7,Inactive,96.5
+329,VH-00329,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2023-08-09,5,Active,9.0
+330,VH-00330,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2022-01-07,10,Inactive,14.8
+331,VH-00331,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2022-09-02,7,Scrapped,29.9
+332,VH-00332,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2020-08-18,7,Scrapped,55.0
+333,VH-00333,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2023-03-04,2,Active,6.2
+334,VH-00334,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2021-07-12,4,Scrapped,63.0
+335,VH-00335,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2020-10-09,10,Active,2.2
+336,VH-00336,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2021-03-03,8,Inactive,12.3
+337,VH-00337,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2020-10-14,3,Scrapped,39.5
+338,VH-00338,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2023-03-12,7,Active,90.8
+339,VH-00339,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2022-03-02,8,Scrapped,61.9
+340,VH-00340,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2025-08-14,5,Scrapped,47.9
+341,VH-00341,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2022-03-14,7,Active,64.3
+342,VH-00342,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2021-01-13,9,Scrapped,35.9
+343,VH-00343,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2023-10-17,6,Inactive,38.8
+344,VH-00344,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2020-10-08,6,Active,89.6
+345,VH-00345,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2020-09-12,8,Scrapped,100.0
+346,VH-00346,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2020-11-08,4,Inactive,53.4
+347,VH-00347,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2021-07-12,10,Active,17.6
+348,VH-00348,Kia EV6,Kia,77.4,708,Four-Wheeler,2022-10-01,6,Scrapped,70.1
+349,VH-00349,Kia EV6,Kia,77.4,708,Four-Wheeler,2024-10-07,3,Inactive,54.2
+350,VH-00350,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2023-02-02,1,Active,60.2
+351,VH-00351,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2024-01-11,8,Scrapped,20.1
+352,VH-00352,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2022-06-02,3,Active,14.8
+353,VH-00353,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2020-06-03,9,Inactive,70.5
+354,VH-00354,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2023-02-11,10,Inactive,32.3
+355,VH-00355,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2025-11-16,7,Scrapped,31.7
+356,VH-00356,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2025-06-08,10,Scrapped,58.9
+357,VH-00357,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2023-12-23,5,Inactive,12.7
+358,VH-00358,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2025-07-28,10,Scrapped,3.2
+359,VH-00359,Kia EV6,Kia,77.4,708,Four-Wheeler,2022-04-21,10,Scrapped,10.4
+360,VH-00360,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2021-12-03,6,Active,34.7
+361,VH-00361,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2021-12-22,2,Scrapped,72.9
+362,VH-00362,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2023-05-07,1,Active,69.3
+363,VH-00363,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2022-12-01,2,Active,38.6
+364,VH-00364,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2021-08-13,7,Inactive,54.6
+365,VH-00365,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2023-11-25,10,Scrapped,22.6
+366,VH-00366,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2020-05-01,1,Inactive,26.1
+367,VH-00367,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2020-03-13,6,Active,73.2
+368,VH-00368,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2020-10-20,6,Inactive,70.5
+369,VH-00369,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2025-10-14,3,Active,5.4
+370,VH-00370,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2021-07-23,4,Scrapped,72.2
+371,VH-00371,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2022-05-08,5,Active,5.0
+372,VH-00372,Kia EV6,Kia,77.4,708,Four-Wheeler,2024-03-02,8,Inactive,0.4
+373,VH-00373,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2022-08-07,10,Active,2.6
+374,VH-00374,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2025-02-16,5,Active,30.8
+375,VH-00375,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2023-11-09,8,Active,64.2
+376,VH-00376,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2021-07-12,6,Active,44.6
+377,VH-00377,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2023-05-08,8,Inactive,56.4
+378,VH-00378,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2025-02-22,2,Inactive,80.8
+379,VH-00379,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2024-09-02,4,Inactive,81.8
+380,VH-00380,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2024-10-08,8,Inactive,29.9
+381,VH-00381,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2025-09-19,1,Scrapped,80.0
+382,VH-00382,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2024-02-25,3,Inactive,17.3
+383,VH-00383,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2021-03-02,4,Inactive,7.8
+384,VH-00384,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2023-11-05,4,Scrapped,25.8
+385,VH-00385,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2020-09-13,7,Scrapped,32.6
+386,VH-00386,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2024-01-26,8,Scrapped,62.3
+387,VH-00387,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2023-07-05,2,Active,56.7
+388,VH-00388,Kia EV6,Kia,77.4,708,Four-Wheeler,2020-10-25,2,Active,78.6
+389,VH-00389,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2022-05-13,7,Scrapped,48.6
+390,VH-00390,Kia EV6,Kia,77.4,708,Four-Wheeler,2023-03-09,1,Inactive,14.4
+391,VH-00391,Kia EV6,Kia,77.4,708,Four-Wheeler,2025-01-13,7,Inactive,69.1
+392,VH-00392,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2025-05-12,8,Active,33.8
+393,VH-00393,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2022-08-28,5,Scrapped,68.5
+394,VH-00394,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2021-12-15,5,Inactive,26.9
+395,VH-00395,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2024-04-15,2,Active,91.3
+396,VH-00396,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2025-09-28,8,Inactive,82.1
+397,VH-00397,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2021-05-23,2,Scrapped,40.3
+398,VH-00398,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2024-03-07,1,Active,83.7
+399,VH-00399,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2020-01-12,8,Scrapped,19.9
+400,VH-00400,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2023-07-21,9,Active,68.1
+401,VH-00401,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2022-10-15,8,Active,96.1
+402,VH-00402,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2024-06-12,9,Active,83.8
+403,VH-00403,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2025-05-01,2,Inactive,5.0
+404,VH-00404,Kia EV6,Kia,77.4,708,Four-Wheeler,2021-11-08,4,Scrapped,20.7
+405,VH-00405,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2023-01-28,9,Scrapped,0.9
+406,VH-00406,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2025-10-26,3,Active,22.4
+407,VH-00407,Kia EV6,Kia,77.4,708,Four-Wheeler,2022-07-13,5,Inactive,45.9
+408,VH-00408,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2023-11-17,5,Scrapped,39.7
+409,VH-00409,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2020-11-27,9,Inactive,56.1
+410,VH-00410,Kia EV6,Kia,77.4,708,Four-Wheeler,2024-05-22,5,Active,48.2
+411,VH-00411,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2022-05-09,6,Scrapped,71.1
+412,VH-00412,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2022-03-17,4,Active,90.0
+413,VH-00413,Kia EV6,Kia,77.4,708,Four-Wheeler,2023-11-05,6,Scrapped,2.5
+414,VH-00414,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2022-07-13,5,Inactive,73.7
+415,VH-00415,Kia EV6,Kia,77.4,708,Four-Wheeler,2025-04-11,10,Scrapped,71.3
+416,VH-00416,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2024-11-12,8,Scrapped,30.0
+417,VH-00417,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2025-03-10,9,Active,47.1
+418,VH-00418,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2025-03-22,9,Inactive,65.4
+419,VH-00419,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2022-12-28,4,Inactive,42.0
+420,VH-00420,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2022-10-10,5,Inactive,85.1
+421,VH-00421,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2020-10-20,10,Active,47.2
+422,VH-00422,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2024-11-13,2,Scrapped,29.8
+423,VH-00423,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2021-04-11,3,Inactive,98.7
+424,VH-00424,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2021-12-06,6,Active,48.8
+425,VH-00425,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2021-11-02,6,Active,45.2
+426,VH-00426,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2021-03-16,10,Active,12.9
+427,VH-00427,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2025-07-14,7,Inactive,38.3
+428,VH-00428,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2024-12-12,4,Active,89.2
+429,VH-00429,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2021-11-01,1,Scrapped,73.4
+430,VH-00430,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2025-05-05,6,Active,38.4
+431,VH-00431,Kia EV6,Kia,77.4,708,Four-Wheeler,2022-02-27,3,Active,29.8
+432,VH-00432,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2023-10-17,9,Inactive,43.4
+433,VH-00433,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2021-08-12,6,Active,16.5
+434,VH-00434,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2020-04-24,4,Active,21.1
+435,VH-00435,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2024-03-04,9,Inactive,71.1
+436,VH-00436,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2023-09-20,5,Active,59.4
+437,VH-00437,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2025-11-27,2,Active,4.8
+438,VH-00438,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2023-07-04,8,Scrapped,25.3
+439,VH-00439,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2021-05-14,1,Scrapped,10.1
+440,VH-00440,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2022-10-23,10,Active,41.9
+441,VH-00441,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2024-02-10,10,Active,78.5
+442,VH-00442,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2021-04-25,10,Inactive,83.1
+443,VH-00443,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2022-05-06,7,Active,54.8
+444,VH-00444,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2025-06-08,8,Active,1.3
+445,VH-00445,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2020-11-16,10,Active,94.9
+446,VH-00446,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2020-05-21,2,Active,45.7
+447,VH-00447,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2022-01-04,8,Active,87.4
+448,VH-00448,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2022-07-24,6,Active,9.5
+449,VH-00449,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2020-11-21,3,Active,32.9
+450,VH-00450,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2024-12-03,5,Inactive,81.5
+451,VH-00451,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2020-07-15,7,Inactive,83.6
+452,VH-00452,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2023-02-05,3,Scrapped,72.6
+453,VH-00453,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2020-10-16,7,Scrapped,67.8
+454,VH-00454,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2024-06-20,7,Active,86.3
+455,VH-00455,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2023-02-14,8,Inactive,4.6
+456,VH-00456,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2025-01-23,6,Scrapped,52.5
+457,VH-00457,Kia EV6,Kia,77.4,708,Four-Wheeler,2025-04-22,10,Inactive,51.9
+458,VH-00458,Kia EV6,Kia,77.4,708,Four-Wheeler,2020-11-24,7,Active,48.2
+459,VH-00459,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2025-03-27,7,Scrapped,89.2
+460,VH-00460,Kia EV6,Kia,77.4,708,Four-Wheeler,2020-11-06,1,Scrapped,84.9
+461,VH-00461,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2021-08-11,2,Active,33.1
+462,VH-00462,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2020-04-18,9,Scrapped,37.9
+463,VH-00463,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2020-08-26,8,Scrapped,44.8
+464,VH-00464,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2023-02-16,6,Scrapped,65.3
+465,VH-00465,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2023-01-18,7,Scrapped,0.0
+466,VH-00466,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2024-11-10,10,Scrapped,56.2
+467,VH-00467,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2025-06-12,8,Active,81.7
+468,VH-00468,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2022-10-20,9,Inactive,71.7
+469,VH-00469,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2025-02-04,8,Scrapped,22.2
+470,VH-00470,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2022-09-17,5,Inactive,70.2
+471,VH-00471,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2021-03-27,8,Scrapped,74.3
+472,VH-00472,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2020-10-07,5,Active,12.1
+473,VH-00473,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2021-04-23,8,Inactive,10.8
+474,VH-00474,Ola S1 Pro,Ola Electric,3.97,135,Two-Wheeler,2020-02-25,10,Inactive,45.7
+475,VH-00475,Kia EV6,Kia,77.4,708,Four-Wheeler,2024-08-01,3,Scrapped,73.6
+476,VH-00476,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2023-08-17,10,Active,69.2
+477,VH-00477,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2025-02-13,3,Scrapped,60.1
+478,VH-00478,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2024-07-20,7,Scrapped,76.2
+479,VH-00479,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2023-05-15,6,Active,13.8
+480,VH-00480,Kia EV6,Kia,77.4,708,Four-Wheeler,2025-05-27,9,Scrapped,54.8
+481,VH-00481,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2025-11-07,9,Active,21.0
+482,VH-00482,BYD Atto 3,BYD,60.5,521,Four-Wheeler,2025-11-05,6,Scrapped,65.0
+483,VH-00483,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2024-12-21,9,Inactive,71.0
+484,VH-00484,Ather 450X,Ather Energy,2.9,105,Two-Wheeler,2024-10-19,8,Scrapped,71.0
+485,VH-00485,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2025-05-28,9,Inactive,80.8
+486,VH-00486,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2020-07-05,1,Active,67.0
+487,VH-00487,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2022-05-22,3,Inactive,14.6
+488,VH-00488,Tata Nexon EV,Tata Motors,30.2,312,Two-Wheeler,2025-04-25,5,Scrapped,3.2
+489,VH-00489,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2020-11-24,10,Scrapped,86.5
+490,VH-00490,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2024-04-17,7,Scrapped,28.8
+491,VH-00491,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2020-07-14,7,Scrapped,31.3
+492,VH-00492,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2020-12-09,1,Active,62.1
+493,VH-00493,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2021-10-18,6,Scrapped,60.3
+494,VH-00494,Hyundai IONIQ 5,Hyundai,72.6,631,Four-Wheeler,2022-03-22,8,Active,18.7
+495,VH-00495,MG ZS EV,MG Motor,50.3,461,Four-Wheeler,2025-02-13,9,Active,42.9
+496,VH-00496,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2022-03-19,3,Inactive,0.6
+497,VH-00497,TVS iQube,TVS Motor,2.25,75,Two-Wheeler,2025-01-05,3,Inactive,59.7
+498,VH-00498,Volvo C40 Recharge,Volvo,78.0,420,Four-Wheeler,2024-08-26,5,Scrapped,55.0
+499,VH-00499,Tata Tiago EV,Tata Motors,19.2,250,Two-Wheeler,2025-09-08,6,Active,52.1
+500,VH-00500,Mahindra XUV400,Mahindra,39.4,456,Four-Wheeler,2021-09-18,7,Inactive,9.2

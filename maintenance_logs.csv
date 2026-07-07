@@ -1,0 +1,601 @@
+log_id,station_id,reported_at,resolved_at,issue_type,severity,repair_cost_inr,resolution_status
+1,60,2023-07-23 00:00:00,2023-07-25 22:00:00,Cable Damage,High,10010.14,Resolved
+2,22,2023-01-05 00:00:00,2023-01-06 23:00:00,Vandalism,Medium,44326.78,Resolved
+3,84,2023-03-28 00:00:00,2023-03-29 16:00:00,Cooling System Fault,High,19180.4,Resolved
+4,56,2024-12-07 00:00:00,,Cooling System Fault,Low,1786.92,Open
+5,42,2023-03-25 00:00:00,2023-03-25 07:00:00,Software Glitch,Medium,45588.67,Resolved
+6,63,2023-07-13 00:00:00,2023-07-16 02:00:00,Cooling System Fault,High,25904.75,Resolved
+7,124,2024-08-02 00:00:00,,Port Failure,Medium,17274.3,Open
+8,117,2023-04-13 00:00:00,2023-04-17 23:00:00,Vandalism,Low,42922.5,Resolved
+9,7,2023-07-16 00:00:00,2023-07-17 21:00:00,Meter Error,Critical,45423.96,Resolved
+10,78,2023-03-17 00:00:00,2023-03-18 09:00:00,Meter Error,Low,16833.0,Resolved
+11,101,2023-09-17 00:00:00,,Cable Damage,High,10837.28,Open
+12,115,2024-01-30 00:00:00,,Payment Terminal Issue,Low,37924.68,Open
+13,117,2024-02-18 00:00:00,2024-02-20 12:00:00,Meter Error,Low,964.8,Resolved
+14,72,2023-08-18 00:00:00,2023-08-19 18:00:00,Vandalism,Medium,42216.55,Resolved
+15,121,2023-08-31 00:00:00,2023-09-01 06:00:00,Cable Damage,Medium,13577.73,Resolved
+16,108,2024-04-07 00:00:00,2024-04-11 21:00:00,Vandalism,High,49729.97,Resolved
+17,88,2023-04-30 00:00:00,2023-05-01 15:00:00,Payment Terminal Issue,Low,29539.11,Resolved
+18,113,2023-08-11 00:00:00,2023-08-13 22:00:00,Software Glitch,High,19657.33,Resolved
+19,88,2023-10-24 00:00:00,2023-10-26 14:00:00,Port Failure,Critical,29920.4,Resolved
+20,93,2024-08-16 00:00:00,,Payment Terminal Issue,Critical,20971.05,Open
+21,31,2023-04-18 00:00:00,2023-04-18 07:00:00,Vandalism,Critical,19914.13,Resolved
+22,116,2024-01-06 00:00:00,2024-01-09 15:00:00,Cooling System Fault,Critical,17400.31,Resolved
+23,39,2024-06-08 00:00:00,,Vandalism,Medium,8737.76,Open
+24,54,2023-10-31 00:00:00,,Cooling System Fault,High,47192.03,Open
+25,7,2023-07-28 00:00:00,,Port Failure,High,47853.59,Open
+26,98,2024-06-25 00:00:00,2024-06-28 23:00:00,Meter Error,Low,42221.12,Resolved
+27,98,2024-08-27 00:00:00,,Power Outage,Critical,3850.13,Open
+28,133,2023-05-16 00:00:00,2023-05-20 05:00:00,Vandalism,Low,31427.39,Resolved
+29,114,2024-03-27 00:00:00,2024-03-29 09:00:00,Cooling System Fault,Critical,2523.57,Resolved
+30,53,2024-08-06 00:00:00,,Meter Error,Medium,19124.3,Open
+31,128,2024-04-24 00:00:00,,Power Outage,Critical,3953.07,Open
+32,22,2023-02-26 00:00:00,2023-03-02 02:00:00,Cable Damage,High,6598.53,Resolved
+33,108,2023-06-26 00:00:00,2023-06-29 13:00:00,Port Failure,Critical,27212.14,Resolved
+34,43,2023-10-22 00:00:00,2023-10-22 21:00:00,Cable Damage,Medium,34378.34,Resolved
+35,62,2023-02-23 00:00:00,2023-02-24 04:00:00,Cable Damage,High,14356.19,Resolved
+36,6,2024-02-15 00:00:00,,Port Failure,Critical,28516.94,Open
+37,67,2024-12-25 00:00:00,2024-12-28 16:00:00,Port Failure,Critical,30792.62,Resolved
+38,34,2023-07-15 00:00:00,2023-07-17 09:00:00,Meter Error,High,39037.14,Resolved
+39,79,2023-04-03 00:00:00,2023-04-05 17:00:00,Cooling System Fault,Medium,24378.51,Resolved
+40,13,2023-02-03 00:00:00,2023-02-07 15:00:00,Payment Terminal Issue,High,26787.59,Resolved
+41,87,2023-10-22 00:00:00,,Vandalism,High,12647.74,Open
+42,30,2024-08-15 00:00:00,,Port Failure,High,8752.57,Open
+43,90,2023-11-15 00:00:00,2023-11-17 20:00:00,Port Failure,High,12755.27,Resolved
+44,114,2024-02-25 00:00:00,2024-02-25 17:00:00,Cooling System Fault,High,40135.36,Resolved
+45,123,2024-07-24 00:00:00,2024-07-26 23:00:00,Vandalism,Critical,1856.94,Resolved
+46,47,2023-02-13 00:00:00,2023-02-16 21:00:00,Power Outage,Medium,6555.99,Resolved
+47,20,2024-05-07 00:00:00,2024-05-11 20:00:00,Software Glitch,High,28229.04,Resolved
+48,107,2023-08-02 00:00:00,,Power Outage,Critical,28510.08,Open
+49,124,2023-06-13 00:00:00,,Vandalism,Medium,41405.13,Open
+50,20,2023-09-15 00:00:00,2023-09-19 08:00:00,Payment Terminal Issue,High,39961.58,Resolved
+51,45,2024-08-13 00:00:00,2024-08-15 13:00:00,Meter Error,High,15370.64,Resolved
+52,110,2023-01-09 00:00:00,2023-01-10 01:00:00,Power Outage,Low,23814.87,Resolved
+53,5,2023-11-28 00:00:00,2023-12-01 18:00:00,Port Failure,Medium,26590.02,Resolved
+54,80,2023-12-13 00:00:00,,Software Glitch,Medium,46980.34,Open
+55,38,2024-11-28 00:00:00,2024-12-01 22:00:00,Port Failure,Low,36296.35,Resolved
+56,126,2024-01-05 00:00:00,2024-01-06 23:00:00,Payment Terminal Issue,Low,20218.27,Resolved
+57,136,2024-05-25 00:00:00,,Power Outage,Low,3249.91,Open
+58,69,2024-02-20 00:00:00,2024-02-20 17:00:00,Vandalism,High,32686.58,Resolved
+59,5,2023-04-11 00:00:00,2023-04-11 22:00:00,Meter Error,Critical,13016.69,Resolved
+60,44,2023-02-22 00:00:00,2023-02-26 16:00:00,Meter Error,Low,24323.43,Resolved
+61,88,2023-10-27 00:00:00,,Cable Damage,Medium,1163.14,Open
+62,96,2024-06-03 00:00:00,2024-06-03 19:00:00,Cable Damage,Medium,20195.87,Resolved
+63,3,2024-03-12 00:00:00,2024-03-16 06:00:00,Software Glitch,High,17110.86,Resolved
+64,40,2023-08-23 00:00:00,2023-08-25 04:00:00,Vandalism,Low,13760.61,Resolved
+65,88,2024-05-27 00:00:00,,Software Glitch,Critical,844.88,Open
+66,94,2023-02-15 00:00:00,,Software Glitch,Critical,25069.4,Open
+67,124,2024-11-16 00:00:00,2024-11-16 04:00:00,Power Outage,High,4143.89,Resolved
+68,34,2023-02-17 00:00:00,2023-02-21 13:00:00,Power Outage,High,6753.23,Resolved
+69,59,2024-12-22 00:00:00,2024-12-25 01:00:00,Vandalism,Low,41651.37,Resolved
+70,51,2024-05-03 00:00:00,,Cooling System Fault,Medium,29872.8,Open
+71,27,2023-12-18 00:00:00,,Cooling System Fault,High,40622.43,Open
+72,20,2024-03-15 00:00:00,2024-03-19 07:00:00,Vandalism,Low,14479.91,Resolved
+73,43,2023-01-20 00:00:00,2023-01-21 19:00:00,Vandalism,High,34951.56,Resolved
+74,29,2023-11-14 00:00:00,2023-11-15 15:00:00,Vandalism,Medium,29349.78,Resolved
+75,41,2024-01-30 00:00:00,2024-01-31 21:00:00,Software Glitch,Medium,34808.48,Resolved
+76,46,2023-11-04 00:00:00,,Vandalism,Critical,12163.9,Open
+77,112,2024-12-26 00:00:00,2024-12-28 14:00:00,Power Outage,High,15204.82,Resolved
+78,79,2023-07-22 00:00:00,,Cooling System Fault,High,31320.48,Open
+79,119,2024-06-15 00:00:00,2024-06-15 22:00:00,Meter Error,High,24089.37,Resolved
+80,87,2024-02-20 00:00:00,,Payment Terminal Issue,Medium,44769.19,Open
+81,12,2023-06-10 00:00:00,,Port Failure,Medium,13875.43,Open
+82,5,2024-10-18 00:00:00,2024-10-18 17:00:00,Payment Terminal Issue,Critical,29268.53,Resolved
+83,108,2023-02-21 00:00:00,,Port Failure,Low,28597.4,Open
+84,3,2024-09-07 00:00:00,2024-09-09 06:00:00,Cooling System Fault,Critical,11788.7,Resolved
+85,107,2023-05-11 00:00:00,2023-05-15 17:00:00,Power Outage,Critical,19406.18,Resolved
+86,36,2023-05-09 00:00:00,2023-05-10 10:00:00,Power Outage,Low,11430.78,Resolved
+87,60,2023-02-24 00:00:00,,Software Glitch,High,46186.15,Open
+88,16,2023-04-13 00:00:00,,Cooling System Fault,Medium,23604.67,Open
+89,28,2024-12-28 00:00:00,2025-01-01 01:00:00,Vandalism,Medium,41069.82,Resolved
+90,102,2023-11-15 00:00:00,2023-11-16 10:00:00,Vandalism,High,21344.66,Resolved
+91,4,2023-01-12 00:00:00,,Software Glitch,High,6730.75,Open
+92,58,2023-08-11 00:00:00,2023-08-14 07:00:00,Payment Terminal Issue,Critical,40155.8,Resolved
+93,42,2023-06-11 00:00:00,,Cable Damage,High,31014.61,Open
+94,107,2024-12-11 00:00:00,2024-12-15 05:00:00,Vandalism,Low,49155.44,Resolved
+95,64,2024-09-01 00:00:00,2024-09-05 06:00:00,Power Outage,Medium,21848.17,Resolved
+96,42,2023-11-05 00:00:00,2023-11-08 22:00:00,Cable Damage,Critical,16560.14,Resolved
+97,11,2023-07-27 00:00:00,2023-07-30 06:00:00,Port Failure,Low,35306.96,Resolved
+98,15,2024-03-18 00:00:00,2024-03-22 12:00:00,Vandalism,Critical,3843.91,Resolved
+99,80,2023-11-05 00:00:00,2023-11-07 10:00:00,Vandalism,Medium,42180.72,Resolved
+100,84,2023-11-22 00:00:00,2023-11-25 13:00:00,Port Failure,High,9213.79,Resolved
+101,64,2023-05-08 00:00:00,2023-05-11 08:00:00,Vandalism,Medium,36343.86,Resolved
+102,16,2024-03-19 00:00:00,2024-03-20 23:00:00,Payment Terminal Issue,Medium,31287.65,Resolved
+103,79,2023-08-25 00:00:00,,Meter Error,Low,14220.24,Open
+104,55,2024-11-18 00:00:00,,Power Outage,High,9138.62,Open
+105,121,2024-07-25 00:00:00,,Cable Damage,High,23105.34,Open
+106,64,2024-06-07 00:00:00,2024-06-11 19:00:00,Cable Damage,Medium,1474.84,Resolved
+107,124,2023-08-27 00:00:00,2023-08-28 20:00:00,Cable Damage,Medium,2998.44,Resolved
+108,59,2024-03-09 00:00:00,2024-03-09 13:00:00,Power Outage,Medium,15009.45,Resolved
+109,122,2023-09-17 00:00:00,2023-09-20 10:00:00,Cooling System Fault,Medium,35871.68,Resolved
+110,118,2023-06-11 00:00:00,2023-06-12 07:00:00,Cable Damage,High,2718.71,Resolved
+111,19,2024-02-14 00:00:00,2024-02-14 17:00:00,Cable Damage,Medium,16669.35,Resolved
+112,8,2024-05-14 00:00:00,,Software Glitch,High,47386.89,Open
+113,84,2024-07-01 00:00:00,2024-07-01 07:00:00,Payment Terminal Issue,Low,14032.45,Resolved
+114,39,2024-10-25 00:00:00,,Payment Terminal Issue,High,19966.88,Open
+115,19,2023-03-22 00:00:00,,Power Outage,High,40744.11,Open
+116,23,2023-05-15 00:00:00,2023-05-16 06:00:00,Port Failure,Critical,38649.39,Resolved
+117,20,2024-08-23 00:00:00,2024-08-27 13:00:00,Cable Damage,High,45219.22,Resolved
+118,90,2023-08-17 00:00:00,,Payment Terminal Issue,High,46614.23,Open
+119,18,2024-09-23 00:00:00,,Vandalism,Low,16992.49,Open
+120,128,2023-11-18 00:00:00,2023-11-20 16:00:00,Software Glitch,Critical,21896.01,Resolved
+121,60,2023-06-27 00:00:00,,Power Outage,High,20774.19,Open
+122,5,2024-03-16 00:00:00,2024-03-20 00:00:00,Meter Error,Medium,42346.11,Resolved
+123,20,2024-11-18 00:00:00,,Cooling System Fault,Critical,12253.6,Open
+124,34,2023-01-10 00:00:00,2023-01-12 11:00:00,Meter Error,Low,15976.71,Resolved
+125,75,2023-06-07 00:00:00,2023-06-08 17:00:00,Meter Error,High,33548.41,Resolved
+126,108,2024-09-01 00:00:00,2024-09-03 11:00:00,Software Glitch,High,9897.45,Resolved
+127,56,2024-12-10 00:00:00,2024-12-10 04:00:00,Port Failure,Low,5910.56,Resolved
+128,21,2023-10-19 00:00:00,2023-10-22 22:00:00,Software Glitch,Low,36767.64,Resolved
+129,39,2024-05-12 00:00:00,,Software Glitch,Medium,2394.11,Open
+130,101,2024-11-03 00:00:00,2024-11-05 02:00:00,Cable Damage,Low,20677.77,Resolved
+131,131,2024-04-29 00:00:00,,Cooling System Fault,Low,26608.39,Open
+132,91,2024-03-06 00:00:00,,Port Failure,High,31571.67,Open
+133,98,2023-12-09 00:00:00,2023-12-13 02:00:00,Power Outage,Critical,24192.33,Resolved
+134,135,2023-02-05 00:00:00,2023-02-07 14:00:00,Power Outage,Critical,8251.35,Resolved
+135,1,2024-10-15 00:00:00,,Software Glitch,High,22647.72,Open
+136,50,2024-04-14 00:00:00,2024-04-15 22:00:00,Meter Error,High,1378.26,Resolved
+137,133,2023-08-17 00:00:00,,Port Failure,Medium,2960.99,Open
+138,103,2024-09-10 00:00:00,2024-09-14 18:00:00,Cooling System Fault,Low,32256.39,Resolved
+139,89,2023-10-18 00:00:00,,Cable Damage,Critical,23341.8,Open
+140,21,2023-09-24 00:00:00,2023-09-26 14:00:00,Payment Terminal Issue,Low,47219.06,Resolved
+141,98,2024-06-23 00:00:00,,Meter Error,Critical,18942.42,Open
+142,87,2024-05-18 00:00:00,2024-05-18 11:00:00,Meter Error,High,18039.01,Resolved
+143,12,2023-12-26 00:00:00,,Cooling System Fault,Critical,10757.8,Open
+144,78,2023-09-12 00:00:00,2023-09-14 17:00:00,Port Failure,Critical,10870.7,Resolved
+145,38,2023-01-17 00:00:00,,Port Failure,Medium,17799.75,Open
+146,89,2024-03-14 00:00:00,2024-03-18 02:00:00,Cable Damage,Medium,38641.25,Resolved
+147,123,2024-05-08 00:00:00,2024-05-08 03:00:00,Cable Damage,Low,19237.14,Resolved
+148,124,2023-04-21 00:00:00,,Power Outage,Critical,5832.69,Open
+149,73,2024-07-14 00:00:00,2024-07-17 15:00:00,Power Outage,Low,42679.64,Resolved
+150,37,2023-09-26 00:00:00,,Port Failure,Medium,47719.85,Open
+151,75,2023-12-12 00:00:00,2023-12-12 04:00:00,Port Failure,High,15141.48,Resolved
+152,9,2024-06-03 00:00:00,,Port Failure,Medium,28617.41,Open
+153,127,2024-02-16 00:00:00,,Vandalism,Medium,26261.21,Open
+154,123,2023-05-19 00:00:00,2023-05-21 01:00:00,Software Glitch,Critical,11120.48,Resolved
+155,52,2023-10-16 00:00:00,2023-10-18 20:00:00,Cable Damage,Low,1861.1,Resolved
+156,21,2023-10-26 00:00:00,2023-10-27 17:00:00,Power Outage,High,31113.84,Resolved
+157,58,2023-01-19 00:00:00,2023-01-22 17:00:00,Payment Terminal Issue,Low,22165.3,Resolved
+158,106,2023-11-18 00:00:00,2023-11-20 05:00:00,Meter Error,Medium,25843.24,Resolved
+159,128,2024-12-10 00:00:00,2024-12-11 22:00:00,Software Glitch,Critical,8259.73,Resolved
+160,87,2023-06-08 00:00:00,2023-06-12 04:00:00,Cooling System Fault,Critical,3256.5,Resolved
+161,43,2023-05-11 00:00:00,2023-05-11 05:00:00,Power Outage,Medium,44883.66,Resolved
+162,74,2023-02-09 00:00:00,2023-02-11 01:00:00,Vandalism,Critical,42729.22,Resolved
+163,27,2023-07-08 00:00:00,2023-07-08 11:00:00,Cooling System Fault,Low,41390.26,Resolved
+164,27,2024-06-12 00:00:00,,Power Outage,Low,17172.3,Open
+165,106,2024-02-17 00:00:00,2024-02-17 06:00:00,Software Glitch,Medium,11266.74,Resolved
+166,33,2024-05-14 00:00:00,,Payment Terminal Issue,High,24552.75,Open
+167,9,2024-08-20 00:00:00,,Meter Error,Medium,21106.07,Open
+168,84,2023-05-24 00:00:00,2023-05-26 03:00:00,Cooling System Fault,High,15485.93,Resolved
+169,40,2023-01-16 00:00:00,2023-01-16 21:00:00,Payment Terminal Issue,Medium,12927.57,Resolved
+170,101,2023-07-15 00:00:00,,Software Glitch,Medium,43481.16,Open
+171,61,2024-04-18 00:00:00,2024-04-19 15:00:00,Cooling System Fault,Low,11705.01,Resolved
+172,19,2023-04-23 00:00:00,,Port Failure,Medium,19322.82,Open
+173,98,2024-10-08 00:00:00,,Software Glitch,High,39505.32,Open
+174,64,2024-11-16 00:00:00,,Meter Error,Low,19470.12,Open
+175,7,2023-09-28 00:00:00,2023-10-03 00:00:00,Software Glitch,Low,41625.55,Resolved
+176,33,2023-11-19 00:00:00,2023-11-22 13:00:00,Power Outage,High,36450.91,Resolved
+177,105,2024-07-27 00:00:00,,Cable Damage,High,3637.83,Open
+178,12,2023-08-14 00:00:00,2023-08-14 11:00:00,Payment Terminal Issue,Low,10301.21,Resolved
+179,18,2024-06-12 00:00:00,2024-06-12 15:00:00,Software Glitch,High,980.52,Resolved
+180,88,2023-03-29 00:00:00,,Cable Damage,Medium,16085.71,Open
+181,30,2024-03-31 00:00:00,,Port Failure,High,15935.05,Open
+182,10,2024-05-29 00:00:00,2024-05-31 06:00:00,Port Failure,High,39723.05,Resolved
+183,99,2024-04-09 00:00:00,2024-04-10 14:00:00,Vandalism,Medium,3925.84,Resolved
+184,51,2023-04-18 00:00:00,2023-04-22 08:00:00,Cooling System Fault,Critical,13952.43,Resolved
+185,122,2023-05-09 00:00:00,2023-05-11 11:00:00,Cooling System Fault,Critical,30182.35,Resolved
+186,14,2024-04-10 00:00:00,,Payment Terminal Issue,Low,11512.96,Open
+187,116,2023-09-29 00:00:00,2023-10-02 08:00:00,Vandalism,Low,30411.3,Resolved
+188,59,2023-09-10 00:00:00,,Software Glitch,Medium,19962.63,Open
+189,74,2023-04-02 00:00:00,2023-04-06 09:00:00,Meter Error,High,4005.01,Resolved
+190,99,2023-01-18 00:00:00,2023-01-18 22:00:00,Meter Error,Critical,17854.35,Resolved
+191,17,2024-12-20 00:00:00,,Port Failure,High,24701.07,Open
+192,102,2023-09-05 00:00:00,2023-09-08 16:00:00,Port Failure,Low,1824.73,Resolved
+193,104,2024-10-21 00:00:00,2024-10-22 14:00:00,Meter Error,Low,8704.31,Resolved
+194,58,2024-02-10 00:00:00,2024-02-12 02:00:00,Payment Terminal Issue,Low,3540.93,Resolved
+195,113,2023-10-25 00:00:00,,Meter Error,Critical,30172.63,Open
+196,97,2024-10-12 00:00:00,,Payment Terminal Issue,High,26079.84,Open
+197,120,2023-01-13 00:00:00,,Cable Damage,Critical,40502.12,Open
+198,7,2023-02-24 00:00:00,2023-02-28 07:00:00,Vandalism,Low,37797.93,Resolved
+199,114,2024-05-12 00:00:00,2024-05-15 12:00:00,Vandalism,High,28919.04,Resolved
+200,80,2024-09-01 00:00:00,2024-09-05 08:00:00,Cable Damage,Low,22485.48,Resolved
+201,27,2023-04-24 00:00:00,2023-04-26 09:00:00,Software Glitch,Critical,41691.3,Resolved
+202,10,2023-10-12 00:00:00,,Port Failure,Medium,46134.73,Open
+203,69,2023-10-21 00:00:00,2023-10-21 12:00:00,Cooling System Fault,High,42535.81,Resolved
+204,109,2024-04-03 00:00:00,2024-04-04 06:00:00,Cable Damage,Medium,33446.37,Resolved
+205,133,2023-11-07 00:00:00,,Meter Error,High,19014.27,Open
+206,42,2023-08-23 00:00:00,,Software Glitch,Critical,38919.67,Open
+207,7,2023-08-05 00:00:00,,Cable Damage,High,12568.25,Open
+208,1,2023-02-26 00:00:00,2023-03-01 08:00:00,Power Outage,Critical,31512.13,Resolved
+209,90,2023-08-08 00:00:00,,Meter Error,Low,47883.62,Open
+210,123,2024-10-25 00:00:00,2024-10-26 07:00:00,Software Glitch,Critical,11214.57,Resolved
+211,78,2024-03-13 00:00:00,,Power Outage,High,25575.06,Open
+212,39,2023-07-20 00:00:00,,Cooling System Fault,Critical,42962.22,Open
+213,63,2024-09-28 00:00:00,2024-10-02 15:00:00,Vandalism,Critical,27893.7,Resolved
+214,24,2023-09-25 00:00:00,,Software Glitch,Medium,14037.24,Open
+215,52,2023-05-08 00:00:00,2023-05-12 22:00:00,Meter Error,Critical,46892.67,Resolved
+216,111,2023-01-07 00:00:00,2023-01-08 23:00:00,Software Glitch,Critical,43699.32,Resolved
+217,82,2024-04-18 00:00:00,,Power Outage,Low,44101.4,Open
+218,32,2024-02-02 00:00:00,2024-02-03 20:00:00,Port Failure,Critical,35025.56,Resolved
+219,49,2024-01-15 00:00:00,2024-01-17 03:00:00,Payment Terminal Issue,Critical,10826.98,Resolved
+220,115,2023-01-16 00:00:00,2023-01-17 14:00:00,Cooling System Fault,High,24556.88,Resolved
+221,60,2024-09-05 00:00:00,,Cable Damage,High,33239.89,Open
+222,122,2024-12-13 00:00:00,2024-12-16 21:00:00,Meter Error,Critical,47711.35,Resolved
+223,39,2024-01-06 00:00:00,2024-01-06 17:00:00,Port Failure,High,1680.75,Resolved
+224,45,2024-02-03 00:00:00,2024-02-03 01:00:00,Port Failure,Low,39296.7,Resolved
+225,29,2024-11-14 00:00:00,,Port Failure,Low,40989.82,Open
+226,109,2023-03-17 00:00:00,2023-03-17 10:00:00,Vandalism,Medium,28311.48,Resolved
+227,65,2024-09-30 00:00:00,,Software Glitch,Medium,47404.16,Open
+228,60,2023-01-02 00:00:00,2023-01-05 15:00:00,Power Outage,Medium,26777.36,Resolved
+229,78,2024-11-12 00:00:00,2024-11-16 11:00:00,Port Failure,Critical,24164.53,Resolved
+230,51,2024-11-21 00:00:00,2024-11-21 10:00:00,Port Failure,High,33432.87,Resolved
+231,136,2023-05-08 00:00:00,2023-05-11 15:00:00,Vandalism,Medium,31592.42,Resolved
+232,106,2024-01-07 00:00:00,2024-01-10 21:00:00,Meter Error,Low,30492.47,Resolved
+233,33,2023-03-15 00:00:00,,Power Outage,Medium,1539.07,Open
+234,55,2023-03-25 00:00:00,,Meter Error,High,6517.43,Open
+235,99,2023-03-06 00:00:00,,Cable Damage,Low,8199.26,Open
+236,106,2023-09-26 00:00:00,2023-09-29 17:00:00,Meter Error,Medium,21466.25,Resolved
+237,49,2023-11-21 00:00:00,,Software Glitch,Critical,42457.03,Open
+238,112,2023-10-08 00:00:00,2023-10-12 12:00:00,Cable Damage,Medium,11653.75,Resolved
+239,18,2024-12-31 00:00:00,,Cable Damage,Medium,48886.79,Open
+240,36,2024-06-30 00:00:00,2024-07-04 18:00:00,Meter Error,Critical,45619.71,Resolved
+241,45,2024-01-25 00:00:00,,Cable Damage,Critical,29367.08,Open
+242,83,2023-06-19 00:00:00,2023-06-20 17:00:00,Power Outage,Critical,38199.71,Resolved
+243,67,2023-11-05 00:00:00,,Payment Terminal Issue,Medium,40171.02,Open
+244,110,2024-12-21 00:00:00,,Meter Error,Low,43669.36,Open
+245,30,2023-03-18 00:00:00,2023-03-22 05:00:00,Cable Damage,Medium,2793.44,Resolved
+246,66,2023-01-25 00:00:00,,Port Failure,High,28315.47,Open
+247,123,2023-03-29 00:00:00,2023-03-30 17:00:00,Cooling System Fault,Low,38660.71,Resolved
+248,100,2024-12-16 00:00:00,2024-12-20 04:00:00,Vandalism,Critical,46489.03,Resolved
+249,14,2023-06-25 00:00:00,2023-06-28 02:00:00,Software Glitch,Medium,1282.66,Resolved
+250,69,2024-02-04 00:00:00,2024-02-06 12:00:00,Power Outage,Low,20916.59,Resolved
+251,102,2024-02-09 00:00:00,,Port Failure,Medium,7714.83,Open
+252,83,2024-06-04 00:00:00,2024-06-04 10:00:00,Port Failure,Medium,31313.19,Resolved
+253,89,2024-11-04 00:00:00,,Vandalism,Critical,38593.31,Open
+254,117,2024-08-07 00:00:00,2024-08-10 06:00:00,Cooling System Fault,Critical,42709.39,Resolved
+255,81,2023-12-21 00:00:00,2023-12-24 01:00:00,Power Outage,High,36130.68,Resolved
+256,69,2024-11-29 00:00:00,2024-11-29 10:00:00,Software Glitch,Critical,33932.92,Resolved
+257,101,2024-04-11 00:00:00,2024-04-12 04:00:00,Meter Error,Medium,48084.39,Resolved
+258,101,2024-10-30 00:00:00,2024-11-03 15:00:00,Meter Error,Low,5618.8,Resolved
+259,94,2024-07-22 00:00:00,2024-07-25 22:00:00,Power Outage,Medium,10795.72,Resolved
+260,4,2024-07-10 00:00:00,2024-07-11 23:00:00,Meter Error,Medium,2087.63,Resolved
+261,131,2024-12-17 00:00:00,2024-12-20 02:00:00,Power Outage,High,49714.2,Resolved
+262,36,2024-06-07 00:00:00,2024-06-08 05:00:00,Power Outage,Low,2446.11,Resolved
+263,121,2024-11-30 00:00:00,,Cable Damage,Low,9002.36,Open
+264,113,2023-08-24 00:00:00,,Meter Error,High,38243.59,Open
+265,75,2024-07-11 00:00:00,2024-07-11 20:00:00,Power Outage,Low,23860.84,Resolved
+266,2,2023-03-07 00:00:00,,Vandalism,Low,27745.45,Open
+267,36,2024-07-11 00:00:00,2024-07-12 09:00:00,Software Glitch,Critical,34252.98,Resolved
+268,42,2024-05-16 00:00:00,,Meter Error,Medium,31646.92,Open
+269,84,2023-03-09 00:00:00,2023-03-12 08:00:00,Cooling System Fault,High,16934.84,Resolved
+270,5,2023-01-19 00:00:00,2023-01-23 18:00:00,Software Glitch,Low,25906.74,Resolved
+271,78,2024-12-06 00:00:00,,Payment Terminal Issue,Medium,6876.66,Open
+272,45,2023-08-01 00:00:00,,Port Failure,Low,10885.3,Open
+273,3,2024-04-07 00:00:00,2024-04-07 17:00:00,Cable Damage,High,2395.17,Resolved
+274,136,2023-08-25 00:00:00,2023-08-28 19:00:00,Cable Damage,High,34298.74,Resolved
+275,71,2023-07-22 00:00:00,2023-07-23 19:00:00,Cable Damage,Low,49040.24,Resolved
+276,37,2024-07-27 00:00:00,2024-07-31 15:00:00,Software Glitch,Critical,35618.48,Resolved
+277,57,2023-05-07 00:00:00,2023-05-11 12:00:00,Meter Error,Critical,41889.34,Resolved
+278,121,2024-11-23 00:00:00,2024-11-23 02:00:00,Cable Damage,Medium,42977.34,Resolved
+279,66,2024-01-18 00:00:00,2024-01-22 21:00:00,Payment Terminal Issue,Low,47171.94,Resolved
+280,100,2023-04-12 00:00:00,2023-04-14 03:00:00,Payment Terminal Issue,Critical,712.07,Resolved
+281,74,2023-10-25 00:00:00,,Cooling System Fault,Low,5442.69,Open
+282,25,2024-05-16 00:00:00,2024-05-17 15:00:00,Power Outage,Critical,41591.71,Resolved
+283,44,2024-06-12 00:00:00,2024-06-15 04:00:00,Power Outage,High,5246.69,Resolved
+284,92,2023-01-07 00:00:00,2023-01-11 09:00:00,Port Failure,Critical,30956.06,Resolved
+285,107,2023-04-12 00:00:00,,Cable Damage,Low,16829.86,Open
+286,42,2024-12-26 00:00:00,2024-12-28 00:00:00,Power Outage,Medium,34967.55,Resolved
+287,35,2024-11-07 00:00:00,,Port Failure,High,25409.11,Open
+288,50,2024-04-11 00:00:00,,Vandalism,High,12133.08,Open
+289,70,2023-02-28 00:00:00,,Payment Terminal Issue,Critical,49755.4,Open
+290,45,2023-12-15 00:00:00,,Cable Damage,High,2812.78,Open
+291,28,2023-03-31 00:00:00,2023-04-04 22:00:00,Cooling System Fault,Medium,40945.03,Resolved
+292,82,2024-06-02 00:00:00,,Meter Error,Medium,23418.84,Open
+293,46,2024-02-16 00:00:00,2024-02-17 05:00:00,Software Glitch,Critical,14179.84,Resolved
+294,5,2023-09-01 00:00:00,2023-09-02 09:00:00,Cooling System Fault,Low,35481.58,Resolved
+295,121,2023-05-01 00:00:00,,Meter Error,Low,40064.0,Open
+296,80,2023-05-15 00:00:00,2023-05-18 06:00:00,Cable Damage,High,47885.28,Resolved
+297,85,2024-12-09 00:00:00,2024-12-12 13:00:00,Cooling System Fault,Medium,2737.18,Resolved
+298,91,2024-07-31 00:00:00,2024-08-02 09:00:00,Cooling System Fault,Critical,25048.31,Resolved
+299,23,2023-04-20 00:00:00,,Cable Damage,Critical,49477.23,Open
+300,58,2023-01-19 00:00:00,,Payment Terminal Issue,High,23652.93,Open
+301,37,2024-03-28 00:00:00,2024-03-29 18:00:00,Software Glitch,Low,49867.36,Resolved
+302,1,2024-07-16 00:00:00,,Cooling System Fault,Critical,45622.4,Open
+303,10,2023-04-22 00:00:00,2023-04-25 13:00:00,Power Outage,Medium,6256.14,Resolved
+304,53,2023-07-26 00:00:00,2023-07-29 19:00:00,Meter Error,Low,884.24,Resolved
+305,132,2023-07-20 00:00:00,2023-07-22 11:00:00,Meter Error,Low,6930.28,Resolved
+306,130,2024-10-12 00:00:00,,Cable Damage,Low,34499.53,Open
+307,127,2023-10-15 00:00:00,2023-10-19 20:00:00,Software Glitch,Low,37511.2,Resolved
+308,123,2024-08-14 00:00:00,,Power Outage,Critical,5704.06,Open
+309,85,2024-12-13 00:00:00,2024-12-18 00:00:00,Port Failure,Medium,10956.56,Resolved
+310,125,2024-07-07 00:00:00,,Cooling System Fault,Medium,25911.52,Open
+311,132,2024-02-11 00:00:00,,Software Glitch,High,38909.15,Open
+312,120,2024-02-10 00:00:00,,Cable Damage,Low,35732.33,Open
+313,3,2024-10-22 00:00:00,2024-10-24 13:00:00,Cable Damage,Critical,29575.58,Resolved
+314,77,2023-10-11 00:00:00,2023-10-13 12:00:00,Payment Terminal Issue,High,14216.64,Resolved
+315,12,2024-04-07 00:00:00,2024-04-10 03:00:00,Power Outage,Critical,7204.17,Resolved
+316,88,2023-10-19 00:00:00,,Cable Damage,High,38545.32,Open
+317,91,2024-08-04 00:00:00,2024-08-07 17:00:00,Meter Error,Low,46865.8,Resolved
+318,67,2023-09-13 00:00:00,2023-09-16 03:00:00,Cable Damage,High,47762.84,Resolved
+319,14,2024-04-18 00:00:00,,Meter Error,High,25560.94,Open
+320,81,2024-04-06 00:00:00,,Cable Damage,Critical,16828.35,Open
+321,19,2024-01-23 00:00:00,2024-01-25 20:00:00,Payment Terminal Issue,Medium,49553.64,Resolved
+322,10,2024-05-15 00:00:00,,Cable Damage,Low,49805.9,Open
+323,26,2024-12-04 00:00:00,2024-12-06 12:00:00,Meter Error,Low,44067.99,Resolved
+324,50,2023-11-20 00:00:00,,Port Failure,Low,24850.51,Open
+325,56,2024-02-02 00:00:00,,Power Outage,Medium,9941.99,Open
+326,129,2023-11-26 00:00:00,2023-11-26 02:00:00,Cable Damage,Medium,20735.61,Resolved
+327,88,2023-05-14 00:00:00,,Cooling System Fault,Low,36538.25,Open
+328,58,2023-03-31 00:00:00,2023-04-05 00:00:00,Meter Error,High,10180.59,Resolved
+329,118,2023-09-01 00:00:00,2023-09-04 17:00:00,Cooling System Fault,Low,14594.8,Resolved
+330,116,2023-06-09 00:00:00,2023-06-12 05:00:00,Port Failure,Medium,7412.88,Resolved
+331,33,2023-09-09 00:00:00,2023-09-11 14:00:00,Vandalism,Low,14954.95,Resolved
+332,85,2023-02-04 00:00:00,,Cable Damage,High,16041.18,Open
+333,89,2024-12-12 00:00:00,2024-12-12 06:00:00,Power Outage,Low,2527.25,Resolved
+334,30,2024-04-26 00:00:00,2024-04-26 10:00:00,Cable Damage,Critical,48731.56,Resolved
+335,68,2024-01-05 00:00:00,,Payment Terminal Issue,Critical,40060.17,Open
+336,29,2023-06-13 00:00:00,2023-06-15 23:00:00,Cable Damage,Low,47849.32,Resolved
+337,38,2024-05-04 00:00:00,,Port Failure,Critical,16583.92,Open
+338,113,2024-02-19 00:00:00,2024-02-23 20:00:00,Power Outage,Medium,43530.53,Resolved
+339,61,2024-11-02 00:00:00,,Port Failure,High,19617.06,Open
+340,73,2024-03-05 00:00:00,,Cooling System Fault,Medium,33724.24,Open
+341,66,2024-01-15 00:00:00,2024-01-16 18:00:00,Cooling System Fault,High,3027.23,Resolved
+342,105,2023-08-06 00:00:00,,Cooling System Fault,Critical,827.54,Open
+343,128,2024-05-13 00:00:00,,Payment Terminal Issue,Medium,11988.3,Open
+344,36,2024-05-14 00:00:00,2024-05-18 14:00:00,Cable Damage,Low,13511.22,Resolved
+345,106,2023-02-06 00:00:00,2023-02-08 19:00:00,Power Outage,Medium,20315.22,Resolved
+346,97,2024-11-07 00:00:00,2024-11-09 07:00:00,Port Failure,Medium,47373.83,Resolved
+347,48,2023-06-03 00:00:00,2023-06-06 01:00:00,Vandalism,High,47470.43,Resolved
+348,6,2024-02-15 00:00:00,2024-02-17 11:00:00,Port Failure,Critical,32344.09,Resolved
+349,119,2023-01-25 00:00:00,,Software Glitch,High,34071.65,Open
+350,45,2023-02-09 00:00:00,2023-02-10 03:00:00,Cable Damage,High,15812.27,Resolved
+351,9,2024-04-13 00:00:00,2024-04-16 05:00:00,Vandalism,Medium,45662.04,Resolved
+352,98,2023-07-06 00:00:00,,Software Glitch,Medium,34450.42,Open
+353,60,2024-08-25 00:00:00,,Software Glitch,Medium,29110.58,Open
+354,97,2024-10-26 00:00:00,,Power Outage,Low,621.0,Open
+355,87,2023-08-18 00:00:00,2023-08-20 14:00:00,Software Glitch,Medium,9080.15,Resolved
+356,107,2023-02-13 00:00:00,2023-02-17 19:00:00,Power Outage,Medium,25789.94,Resolved
+357,119,2024-03-31 00:00:00,,Payment Terminal Issue,Medium,22974.48,Open
+358,14,2023-11-20 00:00:00,2023-11-23 08:00:00,Cooling System Fault,Critical,36899.24,Resolved
+359,114,2023-06-20 00:00:00,,Power Outage,Low,20311.35,Open
+360,39,2023-06-12 00:00:00,,Port Failure,Low,49052.11,Open
+361,43,2024-03-07 00:00:00,,Port Failure,High,13304.97,Open
+362,108,2024-01-10 00:00:00,,Cooling System Fault,Medium,37162.26,Open
+363,70,2024-05-17 00:00:00,2024-05-17 02:00:00,Meter Error,Low,32513.25,Resolved
+364,68,2024-03-26 00:00:00,2024-03-29 17:00:00,Payment Terminal Issue,High,9255.76,Resolved
+365,119,2023-08-11 00:00:00,2023-08-13 23:00:00,Vandalism,High,23729.04,Resolved
+366,67,2023-01-15 00:00:00,2023-01-15 01:00:00,Payment Terminal Issue,Critical,16244.98,Resolved
+367,120,2024-04-14 00:00:00,2024-04-16 08:00:00,Software Glitch,Medium,45291.65,Resolved
+368,132,2024-05-27 00:00:00,,Vandalism,Medium,27514.92,Open
+369,40,2024-02-13 00:00:00,,Port Failure,Medium,25876.15,Open
+370,38,2024-02-15 00:00:00,,Software Glitch,Critical,13229.3,Open
+371,113,2023-01-28 00:00:00,2023-01-29 20:00:00,Cable Damage,Critical,4189.33,Resolved
+372,133,2024-03-10 00:00:00,2024-03-11 19:00:00,Meter Error,Critical,27366.06,Resolved
+373,3,2023-07-26 00:00:00,2023-07-29 17:00:00,Meter Error,Critical,15627.91,Resolved
+374,121,2024-08-14 00:00:00,2024-08-17 10:00:00,Software Glitch,Medium,23577.5,Resolved
+375,135,2023-07-15 00:00:00,2023-07-19 17:00:00,Power Outage,High,7110.04,Resolved
+376,93,2023-09-01 00:00:00,2023-09-04 15:00:00,Payment Terminal Issue,Low,42003.52,Resolved
+377,5,2023-03-28 00:00:00,,Software Glitch,High,28030.14,Open
+378,134,2024-03-26 00:00:00,2024-03-31 00:00:00,Software Glitch,Critical,558.15,Resolved
+379,132,2024-12-02 00:00:00,2024-12-04 15:00:00,Software Glitch,High,8942.23,Resolved
+380,123,2024-04-23 00:00:00,,Software Glitch,Low,23829.13,Open
+381,74,2023-03-01 00:00:00,2023-03-02 05:00:00,Cable Damage,Critical,48764.57,Resolved
+382,96,2024-03-29 00:00:00,,Meter Error,Critical,35119.7,Open
+383,76,2024-02-27 00:00:00,2024-03-01 14:00:00,Port Failure,High,48735.06,Resolved
+384,24,2023-02-05 00:00:00,,Port Failure,Low,33976.14,Open
+385,14,2023-04-19 00:00:00,2023-04-22 00:00:00,Cooling System Fault,Low,36462.38,Resolved
+386,4,2024-01-17 00:00:00,2024-01-17 20:00:00,Cooling System Fault,High,28484.63,Resolved
+387,42,2024-12-03 00:00:00,,Cable Damage,Medium,2122.22,Open
+388,4,2024-11-21 00:00:00,2024-11-24 08:00:00,Vandalism,High,45271.12,Resolved
+389,122,2023-10-03 00:00:00,,Vandalism,High,32180.18,Open
+390,109,2023-11-26 00:00:00,,Vandalism,High,13093.04,Open
+391,43,2023-12-21 00:00:00,2023-12-23 02:00:00,Payment Terminal Issue,Medium,3279.74,Resolved
+392,22,2024-02-19 00:00:00,2024-02-19 15:00:00,Cooling System Fault,Medium,22320.02,Resolved
+393,11,2024-11-27 00:00:00,2024-11-27 12:00:00,Cable Damage,Medium,23200.0,Resolved
+394,59,2024-03-30 00:00:00,2024-04-03 06:00:00,Meter Error,Critical,19276.36,Resolved
+395,30,2024-11-23 00:00:00,2024-11-27 03:00:00,Port Failure,High,17503.5,Resolved
+396,23,2024-04-13 00:00:00,2024-04-16 05:00:00,Port Failure,High,26287.77,Resolved
+397,101,2024-06-12 00:00:00,,Software Glitch,High,14007.07,Open
+398,9,2024-06-11 00:00:00,2024-06-12 04:00:00,Cooling System Fault,Critical,8960.31,Resolved
+399,12,2024-11-21 00:00:00,2024-11-23 09:00:00,Payment Terminal Issue,High,16869.7,Resolved
+400,112,2023-08-03 00:00:00,2023-08-04 10:00:00,Cooling System Fault,Medium,16208.23,Resolved
+401,113,2024-08-28 00:00:00,2024-08-28 13:00:00,Software Glitch,Low,34727.99,Resolved
+402,15,2024-12-18 00:00:00,,Cooling System Fault,Low,48126.91,Open
+403,65,2024-02-25 00:00:00,,Meter Error,High,30024.49,Open
+404,43,2023-03-20 00:00:00,2023-03-21 22:00:00,Meter Error,Low,25253.96,Resolved
+405,54,2023-02-23 00:00:00,,Vandalism,Medium,32716.3,Open
+406,3,2023-02-10 00:00:00,2023-02-10 19:00:00,Meter Error,High,8165.73,Resolved
+407,127,2024-11-09 00:00:00,2024-11-09 02:00:00,Cooling System Fault,High,15177.08,Resolved
+408,42,2024-08-11 00:00:00,,Vandalism,Low,36053.95,Open
+409,37,2023-03-07 00:00:00,2023-03-09 13:00:00,Payment Terminal Issue,High,22619.39,Resolved
+410,99,2023-01-06 00:00:00,2023-01-06 23:00:00,Cable Damage,Critical,47941.33,Resolved
+411,124,2024-07-14 00:00:00,2024-07-17 16:00:00,Vandalism,Medium,4489.9,Resolved
+412,111,2023-03-22 00:00:00,2023-03-23 00:00:00,Vandalism,High,26999.1,Resolved
+413,70,2023-12-19 00:00:00,2023-12-22 08:00:00,Power Outage,Critical,22577.7,Resolved
+414,110,2024-09-26 00:00:00,,Vandalism,Critical,47065.06,Open
+415,85,2023-10-28 00:00:00,2023-10-29 19:00:00,Payment Terminal Issue,Critical,38045.34,Resolved
+416,18,2023-08-30 00:00:00,2023-08-30 01:00:00,Software Glitch,Medium,36241.16,Resolved
+417,55,2024-03-01 00:00:00,2024-03-04 17:00:00,Cooling System Fault,Critical,9508.76,Resolved
+418,117,2023-12-07 00:00:00,,Software Glitch,Medium,12932.81,Open
+419,64,2024-06-12 00:00:00,,Port Failure,Low,8082.96,Open
+420,72,2024-06-24 00:00:00,2024-06-28 05:00:00,Payment Terminal Issue,Critical,30400.12,Resolved
+421,109,2024-11-16 00:00:00,2024-11-18 05:00:00,Software Glitch,Low,49068.82,Resolved
+422,105,2024-07-21 00:00:00,2024-07-21 18:00:00,Power Outage,Medium,43456.66,Resolved
+423,16,2024-04-21 00:00:00,2024-04-24 13:00:00,Meter Error,High,30857.81,Resolved
+424,133,2023-01-31 00:00:00,2023-02-01 06:00:00,Software Glitch,Critical,2238.6,Resolved
+425,34,2024-04-05 00:00:00,,Payment Terminal Issue,Medium,12779.75,Open
+426,55,2024-03-26 00:00:00,,Power Outage,Critical,3836.59,Open
+427,106,2024-10-12 00:00:00,,Power Outage,High,15263.45,Open
+428,91,2024-03-04 00:00:00,2024-03-08 15:00:00,Software Glitch,Low,6937.9,Resolved
+429,20,2023-08-03 00:00:00,,Port Failure,Critical,27454.27,Open
+430,48,2024-07-24 00:00:00,2024-07-26 22:00:00,Port Failure,Critical,21101.72,Resolved
+431,82,2024-12-14 00:00:00,2024-12-15 21:00:00,Cooling System Fault,Critical,19147.09,Resolved
+432,91,2024-03-19 00:00:00,2024-03-22 19:00:00,Payment Terminal Issue,Low,26382.82,Resolved
+433,8,2023-06-19 00:00:00,,Power Outage,High,7405.74,Open
+434,44,2024-11-09 00:00:00,,Meter Error,Critical,29407.98,Open
+435,81,2024-09-20 00:00:00,2024-09-22 02:00:00,Payment Terminal Issue,Medium,27074.42,Resolved
+436,41,2024-12-10 00:00:00,,Payment Terminal Issue,Critical,44229.7,Open
+437,85,2023-06-07 00:00:00,2023-06-08 08:00:00,Software Glitch,Medium,42066.89,Resolved
+438,43,2024-09-23 00:00:00,,Vandalism,Low,39737.13,Open
+439,43,2023-08-03 00:00:00,,Power Outage,Low,10795.27,Open
+440,111,2024-01-26 00:00:00,,Meter Error,High,6775.41,Open
+441,114,2024-05-07 00:00:00,,Meter Error,Medium,21660.05,Open
+442,87,2023-07-10 00:00:00,2023-07-10 19:00:00,Vandalism,Critical,49087.09,Resolved
+443,63,2023-06-03 00:00:00,2023-06-05 17:00:00,Vandalism,Critical,28271.39,Resolved
+444,69,2024-03-24 00:00:00,2024-03-28 00:00:00,Port Failure,Critical,9508.84,Resolved
+445,59,2023-08-16 00:00:00,2023-08-19 10:00:00,Cooling System Fault,High,24276.76,Resolved
+446,88,2024-03-11 00:00:00,2024-03-12 01:00:00,Power Outage,Critical,25235.44,Resolved
+447,10,2023-02-27 00:00:00,2023-02-28 19:00:00,Cable Damage,High,26771.66,Resolved
+448,121,2023-08-12 00:00:00,2023-08-12 17:00:00,Vandalism,Medium,37400.47,Resolved
+449,33,2023-06-24 00:00:00,,Cooling System Fault,Critical,46177.65,Open
+450,6,2023-11-16 00:00:00,,Power Outage,High,2567.06,Open
+451,40,2023-12-06 00:00:00,2023-12-07 20:00:00,Payment Terminal Issue,Critical,26299.77,Resolved
+452,58,2024-08-15 00:00:00,2024-08-19 19:00:00,Vandalism,Low,15012.0,Resolved
+453,27,2024-03-01 00:00:00,2024-03-04 00:00:00,Software Glitch,High,39541.39,Resolved
+454,108,2024-10-14 00:00:00,2024-10-16 04:00:00,Vandalism,Medium,26618.35,Resolved
+455,88,2024-01-25 00:00:00,,Port Failure,High,48213.53,Open
+456,72,2024-06-11 00:00:00,,Payment Terminal Issue,Critical,25223.32,Open
+457,59,2023-08-01 00:00:00,2023-08-04 20:00:00,Power Outage,Low,48259.72,Resolved
+458,42,2023-10-18 00:00:00,,Cooling System Fault,High,26965.62,Open
+459,113,2023-01-30 00:00:00,2023-02-02 13:00:00,Meter Error,Medium,12338.02,Resolved
+460,68,2023-11-17 00:00:00,,Payment Terminal Issue,Medium,21376.42,Open
+461,9,2024-05-14 00:00:00,2024-05-14 04:00:00,Cooling System Fault,Medium,3428.27,Resolved
+462,33,2023-02-18 00:00:00,2023-02-22 15:00:00,Cable Damage,Low,34843.55,Resolved
+463,62,2024-05-31 00:00:00,2024-05-31 12:00:00,Meter Error,Medium,27442.94,Resolved
+464,64,2023-12-31 00:00:00,2024-01-02 23:00:00,Port Failure,High,44609.08,Resolved
+465,20,2023-02-09 00:00:00,,Port Failure,Low,18615.78,Open
+466,56,2023-07-31 00:00:00,2023-08-01 12:00:00,Cable Damage,High,20483.16,Resolved
+467,6,2023-05-13 00:00:00,,Vandalism,Critical,8702.19,Open
+468,118,2023-03-14 00:00:00,2023-03-18 23:00:00,Meter Error,High,30603.57,Resolved
+469,95,2024-04-18 00:00:00,,Payment Terminal Issue,High,48055.36,Open
+470,88,2024-08-04 00:00:00,2024-08-07 07:00:00,Cooling System Fault,High,1758.19,Resolved
+471,88,2023-11-28 00:00:00,,Cable Damage,Critical,7133.19,Open
+472,22,2024-03-29 00:00:00,2024-03-30 15:00:00,Cooling System Fault,High,44929.74,Resolved
+473,58,2024-10-01 00:00:00,2024-10-01 21:00:00,Cooling System Fault,Medium,37083.89,Resolved
+474,94,2023-05-27 00:00:00,2023-05-29 11:00:00,Power Outage,Low,20020.7,Resolved
+475,81,2023-04-09 00:00:00,2023-04-12 07:00:00,Power Outage,Low,15318.79,Resolved
+476,96,2024-05-18 00:00:00,2024-05-21 19:00:00,Payment Terminal Issue,High,7872.42,Resolved
+477,53,2023-02-11 00:00:00,,Power Outage,Critical,31718.42,Open
+478,68,2024-04-19 00:00:00,2024-04-19 04:00:00,Power Outage,High,47578.04,Resolved
+479,49,2024-01-07 00:00:00,,Cable Damage,Medium,36313.02,Open
+480,24,2023-06-22 00:00:00,,Payment Terminal Issue,High,975.54,Open
+481,45,2024-08-19 00:00:00,2024-08-23 03:00:00,Meter Error,Medium,14833.29,Resolved
+482,6,2024-08-12 00:00:00,2024-08-12 12:00:00,Power Outage,Low,41225.66,Resolved
+483,10,2024-01-06 00:00:00,,Power Outage,High,24170.66,Open
+484,82,2024-08-19 00:00:00,,Port Failure,Low,14474.5,Open
+485,123,2024-09-14 00:00:00,2024-09-14 12:00:00,Power Outage,Medium,45259.76,Resolved
+486,84,2023-11-06 00:00:00,2023-11-06 02:00:00,Software Glitch,Low,47763.19,Resolved
+487,30,2023-07-28 00:00:00,2023-07-31 23:00:00,Cable Damage,High,40151.71,Resolved
+488,94,2024-04-29 00:00:00,2024-04-30 02:00:00,Cable Damage,Critical,34749.27,Resolved
+489,119,2024-03-13 00:00:00,,Meter Error,Low,9689.15,Open
+490,62,2023-10-25 00:00:00,2023-10-25 15:00:00,Software Glitch,Medium,1783.04,Resolved
+491,43,2024-09-26 00:00:00,2024-09-30 18:00:00,Cable Damage,Low,49699.64,Resolved
+492,11,2023-04-05 00:00:00,2023-04-08 04:00:00,Payment Terminal Issue,Low,8556.68,Resolved
+493,135,2024-09-08 00:00:00,2024-09-11 00:00:00,Software Glitch,Critical,34032.64,Resolved
+494,78,2024-01-05 00:00:00,2024-01-06 01:00:00,Software Glitch,Low,33966.97,Resolved
+495,10,2024-06-09 00:00:00,2024-06-09 09:00:00,Cable Damage,Medium,16386.21,Resolved
+496,53,2023-04-07 00:00:00,2023-04-07 20:00:00,Cable Damage,Critical,44109.58,Resolved
+497,103,2024-05-15 00:00:00,2024-05-16 15:00:00,Software Glitch,Critical,4711.27,Resolved
+498,56,2024-12-08 00:00:00,,Software Glitch,Low,44448.9,Open
+499,123,2023-10-25 00:00:00,2023-10-26 18:00:00,Port Failure,Low,12339.3,Resolved
+500,53,2023-06-12 00:00:00,2023-06-16 02:00:00,Cable Damage,High,47657.93,Resolved
+501,68,2024-08-29 00:00:00,2024-08-31 08:00:00,Port Failure,Critical,4292.35,Resolved
+502,133,2024-05-01 00:00:00,2024-05-02 21:00:00,Port Failure,Critical,22962.21,Resolved
+503,40,2024-01-02 00:00:00,,Vandalism,Medium,11691.64,Open
+504,97,2023-08-02 00:00:00,2023-08-04 03:00:00,Port Failure,Medium,33275.78,Resolved
+505,129,2023-03-20 00:00:00,2023-03-23 12:00:00,Port Failure,High,38641.89,Resolved
+506,113,2023-02-01 00:00:00,2023-02-05 02:00:00,Meter Error,Medium,3491.13,Resolved
+507,103,2024-04-17 00:00:00,2024-04-17 02:00:00,Cooling System Fault,High,20428.39,Resolved
+508,102,2024-02-11 00:00:00,,Cable Damage,Medium,49347.34,Open
+509,64,2023-08-12 00:00:00,,Vandalism,Low,1949.27,Open
+510,28,2024-11-28 00:00:00,2024-11-30 19:00:00,Port Failure,Low,29209.89,Resolved
+511,17,2023-10-08 00:00:00,,Port Failure,Critical,10296.09,Open
+512,47,2023-08-10 00:00:00,2023-08-11 04:00:00,Port Failure,Critical,17213.44,Resolved
+513,126,2023-10-28 00:00:00,2023-11-01 17:00:00,Cable Damage,Medium,12548.59,Resolved
+514,86,2024-09-06 00:00:00,,Port Failure,Critical,9731.96,Open
+515,135,2023-11-29 00:00:00,,Power Outage,High,27745.28,Open
+516,87,2023-10-08 00:00:00,2023-10-09 17:00:00,Software Glitch,Medium,31200.2,Resolved
+517,30,2024-08-12 00:00:00,2024-08-16 05:00:00,Port Failure,Medium,46007.23,Resolved
+518,133,2023-06-19 00:00:00,2023-06-21 07:00:00,Vandalism,Medium,27616.3,Resolved
+519,126,2023-07-20 00:00:00,2023-07-24 17:00:00,Cable Damage,Medium,47665.95,Resolved
+520,5,2023-02-03 00:00:00,2023-02-06 17:00:00,Cable Damage,Critical,13139.14,Resolved
+521,94,2024-06-15 00:00:00,2024-06-17 05:00:00,Meter Error,High,26104.4,Resolved
+522,123,2024-12-29 00:00:00,2024-12-29 13:00:00,Meter Error,Medium,24809.14,Resolved
+523,23,2023-05-14 00:00:00,2023-05-16 04:00:00,Cable Damage,Low,23139.74,Resolved
+524,89,2023-06-22 00:00:00,,Vandalism,Critical,20281.97,Open
+525,32,2023-09-24 00:00:00,2023-09-26 18:00:00,Payment Terminal Issue,Low,25887.11,Resolved
+526,29,2023-10-03 00:00:00,2023-10-07 07:00:00,Software Glitch,High,22250.91,Resolved
+527,29,2024-12-24 00:00:00,2024-12-27 20:00:00,Cable Damage,Critical,44635.81,Resolved
+528,19,2024-02-29 00:00:00,,Meter Error,Low,5547.89,Open
+529,99,2023-02-01 00:00:00,2023-02-05 17:00:00,Meter Error,Low,4921.64,Resolved
+530,43,2024-02-14 00:00:00,,Port Failure,High,17413.91,Open
+531,70,2024-01-24 00:00:00,2024-01-28 21:00:00,Payment Terminal Issue,Medium,37205.17,Resolved
+532,129,2023-09-10 00:00:00,2023-09-12 17:00:00,Payment Terminal Issue,Medium,25241.68,Resolved
+533,23,2023-10-01 00:00:00,2023-10-02 02:00:00,Payment Terminal Issue,High,31778.23,Resolved
+534,81,2023-10-15 00:00:00,2023-10-19 13:00:00,Cooling System Fault,Critical,39502.5,Resolved
+535,8,2023-01-10 00:00:00,2023-01-10 01:00:00,Software Glitch,Low,30248.2,Resolved
+536,106,2024-10-20 00:00:00,2024-10-20 20:00:00,Vandalism,Medium,47844.83,Resolved
+537,134,2024-01-21 00:00:00,,Vandalism,High,34505.96,Open
+538,26,2024-10-29 00:00:00,,Vandalism,Medium,19833.65,Open
+539,136,2023-08-26 00:00:00,,Cooling System Fault,Low,47143.9,Open
+540,84,2024-11-26 00:00:00,,Vandalism,Low,49002.09,Open
+541,50,2023-09-22 00:00:00,2023-09-26 04:00:00,Software Glitch,Critical,34306.92,Resolved
+542,93,2023-02-03 00:00:00,,Software Glitch,Low,9854.31,Open
+543,67,2023-01-20 00:00:00,2023-01-21 12:00:00,Payment Terminal Issue,High,9846.56,Resolved
+544,122,2024-04-19 00:00:00,2024-04-19 02:00:00,Meter Error,Medium,40618.31,Resolved
+545,85,2024-12-30 00:00:00,,Cooling System Fault,Low,15591.61,Open
+546,47,2024-08-31 00:00:00,2024-09-01 09:00:00,Payment Terminal Issue,Critical,21673.47,Resolved
+547,85,2023-10-28 00:00:00,2023-11-01 11:00:00,Software Glitch,Critical,42207.19,Resolved
+548,91,2024-03-21 00:00:00,2024-03-23 13:00:00,Cooling System Fault,Medium,25274.24,Resolved
+549,4,2023-04-25 00:00:00,2023-04-30 00:00:00,Software Glitch,Critical,10632.34,Resolved
+550,79,2024-04-17 00:00:00,,Payment Terminal Issue,High,29461.24,Open
+551,60,2023-11-17 00:00:00,,Software Glitch,Critical,35724.14,Open
+552,59,2023-06-16 00:00:00,2023-06-17 12:00:00,Vandalism,Low,34499.15,Resolved
+553,12,2023-02-24 00:00:00,2023-02-26 09:00:00,Port Failure,Critical,28031.19,Resolved
+554,27,2023-05-09 00:00:00,,Payment Terminal Issue,High,22699.34,Open
+555,20,2023-09-03 00:00:00,2023-09-07 14:00:00,Payment Terminal Issue,High,28192.14,Resolved
+556,24,2024-12-16 00:00:00,2024-12-16 23:00:00,Cable Damage,High,35824.83,Resolved
+557,39,2024-07-08 00:00:00,2024-07-11 10:00:00,Cable Damage,Critical,8864.61,Resolved
+558,121,2024-12-31 00:00:00,2025-01-04 15:00:00,Meter Error,Critical,28902.03,Resolved
+559,32,2024-11-06 00:00:00,2024-11-06 07:00:00,Power Outage,Critical,44320.39,Resolved
+560,97,2023-10-08 00:00:00,,Vandalism,Critical,5244.89,Open
+561,22,2023-12-16 00:00:00,,Power Outage,Low,41871.7,Open
+562,120,2023-02-08 00:00:00,,Payment Terminal Issue,Low,46651.82,Open
+563,1,2024-05-14 00:00:00,,Software Glitch,Low,49447.85,Open
+564,31,2023-03-19 00:00:00,2023-03-24 00:00:00,Meter Error,High,13101.64,Resolved
+565,21,2023-04-16 00:00:00,,Cable Damage,Low,38033.3,Open
+566,118,2024-01-07 00:00:00,2024-01-07 23:00:00,Payment Terminal Issue,Critical,11037.84,Resolved
+567,133,2024-07-13 00:00:00,,Cooling System Fault,Medium,12438.18,Open
+568,124,2023-10-27 00:00:00,,Vandalism,Critical,734.23,Open
+569,121,2024-07-27 00:00:00,,Software Glitch,Medium,17361.53,Open
+570,45,2023-12-09 00:00:00,2023-12-09 21:00:00,Software Glitch,Low,27754.77,Resolved
+571,42,2023-06-19 00:00:00,2023-06-21 14:00:00,Port Failure,Critical,33459.29,Resolved
+572,106,2023-01-20 00:00:00,2023-01-22 22:00:00,Meter Error,High,45572.94,Resolved
+573,53,2024-07-16 00:00:00,2024-07-20 11:00:00,Cooling System Fault,Critical,3627.28,Resolved
+574,79,2024-02-17 00:00:00,,Power Outage,Low,38542.53,Open
+575,1,2023-01-15 00:00:00,2023-01-18 16:00:00,Vandalism,Low,41682.35,Resolved
+576,6,2024-04-02 00:00:00,2024-04-06 08:00:00,Cable Damage,Critical,26249.26,Resolved
+577,16,2024-06-24 00:00:00,,Meter Error,Critical,37697.28,Open
+578,58,2023-06-18 00:00:00,2023-06-20 16:00:00,Port Failure,Medium,14011.64,Resolved
+579,70,2024-08-31 00:00:00,2024-09-03 15:00:00,Meter Error,Critical,36265.55,Resolved
+580,113,2024-02-24 00:00:00,,Power Outage,Critical,17706.85,Open
+581,122,2023-10-21 00:00:00,,Payment Terminal Issue,High,20050.9,Open
+582,114,2023-05-17 00:00:00,2023-05-19 13:00:00,Meter Error,High,34010.6,Resolved
+583,23,2024-09-04 00:00:00,,Power Outage,Low,22614.05,Open
+584,70,2024-05-25 00:00:00,2024-05-28 02:00:00,Cooling System Fault,Low,43025.67,Resolved
+585,11,2023-07-18 00:00:00,2023-07-19 19:00:00,Power Outage,Medium,3520.0,Resolved
+586,112,2023-07-03 00:00:00,2023-07-06 07:00:00,Cable Damage,Low,11226.98,Resolved
+587,100,2024-11-10 00:00:00,2024-11-11 21:00:00,Power Outage,High,47646.12,Resolved
+588,58,2023-09-05 00:00:00,2023-09-08 07:00:00,Port Failure,Critical,37797.54,Resolved
+589,67,2023-02-10 00:00:00,,Meter Error,Medium,17083.06,Open
+590,111,2024-06-11 00:00:00,2024-06-11 19:00:00,Power Outage,High,23516.72,Resolved
+591,123,2024-01-12 00:00:00,2024-01-12 17:00:00,Cooling System Fault,Medium,24368.29,Resolved
+592,7,2023-03-05 00:00:00,,Cooling System Fault,Medium,20272.3,Open
+593,105,2024-09-06 00:00:00,2024-09-07 01:00:00,Power Outage,Critical,22006.54,Resolved
+594,56,2023-09-22 00:00:00,2023-09-22 20:00:00,Cooling System Fault,Critical,8387.37,Resolved
+595,134,2023-08-25 00:00:00,2023-08-25 18:00:00,Cable Damage,Critical,33871.39,Resolved
+596,48,2023-12-12 00:00:00,,Cable Damage,Low,2249.58,Open
+597,59,2024-04-27 00:00:00,,Port Failure,Low,27389.3,Open
+598,80,2023-05-26 00:00:00,,Cable Damage,High,46812.48,Open
+599,9,2023-07-29 00:00:00,,Vandalism,Low,13721.34,Open
+600,49,2023-08-27 00:00:00,2023-08-30 16:00:00,Software Glitch,Medium,26902.07,Resolved
